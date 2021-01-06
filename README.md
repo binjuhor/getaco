@@ -1,32 +1,42 @@
 #Pull source code from repo on gitlab.com
 ======Run project=========
+```
 run composer update
 run php artisan generate:key
 run php artisan serve /to run your project
+```
 
 ========Git Work Folow===========
-#Git source code ( All feature and source using dev branch )
-#Before you create new feature or fix some feature need pull newest source code from server.
+###Git source code ( All feature and source using dev branch )
+Before you create new feature or fix some feature need pull newest source code from server.
 
+```
 git pull origin dev
 git checkout -b feat/#feature-number //With feature 
 git checkout -b fix/#feature-number //With fix feature
+```
 
-#After finish code feature function you need merge to dev branch & follow this step
+###After finish code feature function you need merge to dev branch & follow this step
 
+```
 git add .
 git commit -m "Your message when you finish this feature"
 git checkout dev
 git pull origin dev
 git merge branch_name
+```
+
 
 #Solve conflict if have conflict or not
 
-git push origin dev
+`git push origin dev`
 
-======Route defination=======
+###======Route defination=======
+
 Define Route:
+
 #With route you need group all function under action
+
 
 Groupname/
 / #go to index() list item
@@ -47,6 +57,9 @@ nginx 1.13.12
 composer 1.6.4
 NodeJs 10.0.0
 
-========= Command =============
+###========= Command =============
+
+```
 php artisan search:index /Index all lead and customer to Elasticsearch
 php artisan search:index {customerID} /Index lead and customer with id {customerID} to Elasticsearch
+```
