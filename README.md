@@ -1,4 +1,9 @@
-#Pull source code from repo on gitlab.com
+#Getaco.com - form builder for marketing team [2018]
+This is a project for Marketing team, for converting lead to customer.
+
+
+#Development
+##Pull source code from repo on gitlab.com
 ======Run project=========
 ```
 run composer update
@@ -26,14 +31,9 @@ git pull origin dev
 git merge branch_name
 ```
 
+##With route you need group all function under action
 
-#Solve conflict if have conflict or not
-
-`git push origin dev`
-
-#With route you need group all function under action
-
-
+```
 Groupname/
 / #go to index() list item
 /list #go to list() list item to action ( back end )
@@ -43,8 +43,9 @@ Groupname/
 /trash #go to trash() trash list
 /untrash #go to unTrash() Un trash item
 /delete #go to delete() delete from database
-
-Required server:
+```
+Server requirement:
+```
 php: 7.0.0 ^
 Mariadb: 5.5.56
 Redis 4.0.9
@@ -52,7 +53,7 @@ Elasticsearch ~6.0
 nginx 1.13.12
 composer 1.6.4
 NodeJs 10.0.0
-
+```
 ###========= Command =============
 
 ```
