@@ -17,7 +17,7 @@ run php artisan serve /to run your project
 
 ========Git Work Folow===========
 
-###Git source code ( All feature and source using dev branch )
+### Git source code ( All feature and source using dev branch )
 
 Before you create new feature or fix some feature need pull newest source code from server.
 
@@ -27,7 +27,7 @@ git checkout -b feat/#feature-number //With feature
 git checkout -b fix/#feature-number //With fix feature
 ```
 
-###After finish code feature function you need merge to dev branch & follow this step
+### After finish code feature function you need merge to dev branch & follow this step
 
 ```
 git add .
@@ -37,7 +37,7 @@ git pull origin dev
 git merge branch_name
 ```
 
-##With route you need group all function under action
+## With route you need group all function under action
 
 ```
 Groupname/
@@ -50,7 +50,7 @@ Groupname/
 /untrash #go to unTrash() Un trash item
 /delete #go to delete() delete from database
 ```
-###Server requirement:
+### Server requirement:
 ```
 php: 7.0.0 ^
 Mariadb: 5.5.56
@@ -60,7 +60,7 @@ nginx 1.13.12
 composer 1.6.4
 NodeJs 10.0.0
 ```
-###========= Command =============
+### ========= Command =============
 
 ```
 php artisan search:index /Index all lead and customer to Elasticsearch
