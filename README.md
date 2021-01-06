@@ -1,9 +1,13 @@
 #Getaco.com - form builder for marketing team [2018]
+
 This is a project for Marketing team, for converting lead to customer.
 
 
 #Development
+
 ##Pull source code from repo on gitlab.com
+
+
 ======Run project=========
 ```
 run composer update
@@ -12,7 +16,9 @@ run php artisan serve /to run your project
 ```
 
 ========Git Work Folow===========
+
 ###Git source code ( All feature and source using dev branch )
+
 Before you create new feature or fix some feature need pull newest source code from server.
 
 ```
@@ -44,7 +50,7 @@ Groupname/
 /untrash #go to unTrash() Un trash item
 /delete #go to delete() delete from database
 ```
-Server requirement:
+###Server requirement:
 ```
 php: 7.0.0 ^
 Mariadb: 5.5.56
