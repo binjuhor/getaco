@@ -1,11 +1,11 @@
-#Getaco.com - form builder for marketing team [2018]
+# Getaco.com - form builder for marketing team [2018]
 
 This is a project for Marketing team, for converting lead to customer.
 
 
-#Development
+# Development
 
-##Pull source code from repo on gitlab.com
+## Pull source code from repo on gitlab.com
 
 
 ======Run project=========
