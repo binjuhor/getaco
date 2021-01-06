@@ -1,0 +1,33 @@
+.getacoEmbed{
+    width: 100%;
+    display: block;
+    clear: both;
+    .hidden{
+        display:none!important;
+        opacity: 0!important;
+        width: 0!important;
+        height: 0!important;
+    }
+    .getacoMessage{
+        clear: both;
+        width: 100%;
+    }
+    label{
+        cursor: pointer;
+    }
+
+    @media (max-width: 767px) {
+        .add_field,
+        .field_frontend,
+        input[type="text"], 
+        input[type="email"], 
+        input[type="submit"], 
+        button, 
+        textarea{
+            width:100%!important;
+        }
+        .field_frontend{
+            margin: 5px 0!important;
+        }
+    }
+}

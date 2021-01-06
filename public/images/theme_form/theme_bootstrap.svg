@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="357" height="230" viewBox="0 0 357 230">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="357" height="230" fill="#FFF" rx="3"/>
+        <text fill="#2A2A2A" font-family="Muli-Bold, Muli" font-size="9.6" font-weight="bold">
+            <tspan x="23" y="53">Full name</tspan>
+        </text>
+        <text fill="#2A2A2A" font-family="Muli-Bold, Muli" font-size="9.6" font-weight="bold">
+            <tspan x="23" y="98">Email</tspan>
+        </text>
+        <text fill="#2A2A2A" font-family="Muli-Bold, Muli" font-size="9.6" font-weight="bold">
+            <tspan x="23" y="145">Your phone</tspan>
+        </text>
+        <rect width="246" height="34" x="88" y="33" fill="#F5F5F5" rx="2.88"/>
+        <rect width="246" height="34" x="88" y="79" fill="#F5F5F5" rx="2.88"/>
+        <rect width="246" height="34" x="88" y="125" fill="#F5F5F5" rx="2.88"/>
+        <text fill="#B2B2B2" font-family="Muli-Regular, Muli" font-size="9.6">
+            <tspan x="106" y="53">Place hoder</tspan>
+        </text>
+        <text fill="#B2B2B2" font-family="Muli-Regular, Muli" font-size="9.6">
+            <tspan x="106" y="98">Place hoder</tspan>
+        </text>
+        <text fill="#B2B2B2" font-family="Muli-Regular, Muli" font-size="9.6">
+            <tspan x="106" y="145">Place hoder</tspan>
+        </text>
+        <rect width="84" height="28" x="136" y="176" fill="#419BF9" rx="3"/>
+        <text fill="#FFF" font-family="Muli-Bold, Muli" font-size="10" font-weight="bold">
+            <tspan x="162" y="193">Submit</tspan>
+        </text>
+    </g>
+</svg>

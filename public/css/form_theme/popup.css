@@ -1,0 +1,91 @@
+.getacoEmbed .__getAcoPopup {
+  opacity: 1; }
+  .getacoEmbed .__getAcoPopup.fade {
+    opacity: 1;
+    -webkit-transform: translate(0, 0);
+    -moz-transform: translate(0, 0);
+    transform: translate(0, 0); }
+    .getacoEmbed .__getAcoPopup.fade .modal-dialog {
+      max-width: 570px !important;
+      -webkit-transform: translate(0, 0);
+      -moz-transform: translate(0, 0);
+      transform: translate(0, 0); }
+  .getacoEmbed .__getAcoPopup .modal-body {
+    background: #fff;
+    padding: 0px; }
+  .getacoEmbed .__getAcoPopup .modal-content .close {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    position: absolute;
+    top: 5px;
+    right: 5px; }
+
+.getacoEmbed .modal-dialog-wrap {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  height: 100%; }
+  .getacoEmbed .modal-dialog-wrap .modal-dialog {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center; }
+    .getacoEmbed .modal-dialog-wrap .modal-dialog .modal-content {
+      display: inline-block;
+      text-align: left;
+      width: auto; }
+
+.getacoEmbed * {
+  font-family: inherit !important; }
+
+.getacoEmbed .hidden {
+  display: none !important;
+  opacity: 0 !important;
+  width: 0 !important;
+  height: 0 !important; }
+
+.getacoEmbed .getacoMessage {
+  clear: both;
+  width: 100%; }
+
+.getacoEmbed .__getAcoFloatbar {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  display: block;
+  background: #fff;
+  padding: 20px; }
+
+.getacoEmbed .closeButton {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  width: 20px;
+  z-index: 999;
+  height: 20px;
+  text-align: center;
+  line-height: 20px; }
+
+.getacoEmbed .__getAcoFloatbarCloseBtn {
+  position: absolute;
+  top: 10px;
+  right: 30px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer; }
+  .getacoEmbed .__getAcoFloatbarCloseBtn img {
+    width: 100%;
+    height: 100%; }
+
+.getacoEmbed input::-webkit-input-placeholder {
+  font-style: normal; }
+
+.getacoEmbed input::-moz-placeholder {
+  font-style: normal; }
+
+.getacoEmbed input:-ms-input-placeholder {
+  font-style: normal; }
+
+.getacoEmbed .field_frontend {
+  width: 100%; }

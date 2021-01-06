@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="60px" viewBox="0 0 57 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10 Copy 19</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="86.220263%" id="linearGradient-1">
+            <stop stop-color="#FF4069" offset="0%"></stop>
+            <stop stop-color="#FF6959" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="02-.-tinh-nang" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-430.000000, -5443.000000)">
+        <g id="Group-29" transform="translate(376.000000, 5396.000000)">
+            <g id="Group-10-Copy-19" transform="translate(54.000000, 47.000000)">
+                <rect id="Rectangle-31" stroke="#FF4669" stroke-width="1.5" x="10.75" y="50.75" width="35.5" height="8.5" rx="3"></rect>
+                <rect id="Rectangle-31-Copy" stroke="#FF4669" stroke-width="1.5" x="6.75" y="37.75" width="44.5" height="8.5" rx="3"></rect>
+                <rect id="Rectangle-31-Copy-2" fill="#FF4669" x="0" y="21" width="57" height="13" rx="3"></rect>
+                <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" cx="28" cy="6" r="6"></circle>
+                <path d="M29,14 C22.9248644,14 18,19.3725793 18,26 L40,26 C40,19.3725793 35.0751356,14 29,14 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

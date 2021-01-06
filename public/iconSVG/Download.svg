@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Download</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Download" transform="translate(-8.000000, -8.000000)" fill="#FF4669" fill-rule="nonzero">
+            <g transform="translate(8.000000, 8.000000)" id="arrow_in_down-[#384]">
+                <path d="M11.952,5.9136 L10.8736,4.7504 L8.8,6.6928 L8.8,0 L7.2,0 L7.2,6.6928 L5.1648,4.7504 L4.0752,5.9136 L8.0336,9.6504 L11.952,5.9136 Z M16,16 L0,16 L0,8 L3.2,8 L3.2,9.6 L1.6,9.6 L1.6,14.4 L14.4,14.4 L14.4,9.6 L12.8,9.6 L12.8,8 L16,8 L16,16 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

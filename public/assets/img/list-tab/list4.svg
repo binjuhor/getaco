@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="370px" height="332px" viewBox="0 0 370 332" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 30</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="86.220263%" id="linearGradient-1">
+            <stop stop-color="#FF4069" offset="0%"></stop>
+            <stop stop-color="#FF6959" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="02-.-tinh-nang" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1075.000000, -2361.000000)">
+        <g id="Abtes" transform="translate(473.000000, 2353.000000)">
+            <g id="Group-30" transform="translate(602.000000, 0.000000)">
+                <g id="Group-5">
+                    <path d="M17.4791667,106.5 L63.5434381,106.5" id="Line-3-Copy-4" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M17.4791667,119.5 L85.9513959,119.5" id="Line-3-Copy-5" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M19.4791667,93.5 L87.9513959,93.5" id="Line-3-Copy-16" stroke="#FF4669" stroke-width="5" stroke-linecap="square"></path>
+                    <path d="M17.4791667,132.5 L67.5898818,132.5" id="Line-3-Copy-6" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M17.4791667,183.5 L67.5898818,183.5" id="Line-3-Copy-22" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M17.4791667,145.5 L85.9513959,145.5" id="Line-3-Copy-7" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M17.4791667,196.5 L85.9513959,196.5" id="Line-3-Copy-23" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M17.4791667,158.5 L66.5101987,158.5" id="Line-3-Copy-8" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M17.4791667,209.5 L66.5101987,209.5" id="Line-3-Copy-24" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M17.4791667,172.5 L85.9513959,172.5" id="Line-3-Copy-9" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M17.4791667,223.5 L85.9513959,223.5" id="Line-3-Copy-25" stroke="#FF4669" stroke-linecap="square"></path>
+                    <text id="Tỷ-lệ-tương-tác-:-N%" font-family="Muli-Bold, Muli" font-size="11" font-weight="bold" line-spacing="20" letter-spacing="1" fill="#888888">
+                        <tspan x="0" y="334">Tỷ lệ tương tác : N%</tspan>
+                    </text>
+                    <rect id="Rectangle-27" stroke="#FF4669" x="1.5" y="45.5" width="169" height="250"></rect>
+                    <text id="A" font-family="OpenSans-Bold, Open Sans" font-size="20" font-weight="bold" line-spacing="30" fill="#FF4669">
+                        <tspan x="3" y="21">A</tspan>
+                    </text>
+                    <rect id="Rectangle-28" stroke="#FF4669" x="17.5" y="62.5" width="133" height="14"></rect>
+                    <g id="Group-2" transform="translate(105.000000, 90.000000)">
+                        <rect id="Rectangle-16" fill="url(#linearGradient-1)" x="0" y="0" width="46" height="17"></rect>
+                        <g id="checked-(2)" transform="translate(18.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                            <path d="M0.115384615,3.85 C0.0384615385,3.78 0,3.675 0,3.605 C0,3.535 0.0384615385,3.43 0.115384615,3.36 L0.653846154,2.87 C0.807692308,2.73 1.03846154,2.73 1.19230769,2.87 L1.23076923,2.905 L3.34615385,4.97 C3.42307692,5.04 3.53846154,5.04 3.61538462,4.97 L8.76923077,0.105 L8.80769231,0.105 C8.96153846,-0.035 9.19230769,-0.035 9.34615385,0.105 L9.88461538,0.595 C10.0384615,0.735 10.0384615,0.945 9.88461538,1.085 L3.73076923,6.895 C3.65384615,6.965 3.57692308,7 3.46153846,7 C3.34615385,7 3.26923077,6.965 3.19230769,6.895 L0.192307692,3.955 L0.115384615,3.85 Z" id="Shape"></path>
+                        </g>
+                        <path d="M18.1153846,7.85 C18.0384615,7.78 18,7.675 18,7.605 C18,7.535 18.0384615,7.43 18.1153846,7.36 L18.6538462,6.87 C18.8076923,6.73 19.0384615,6.73 19.1923077,6.87 L19.2307692,6.905 L21.3461538,8.97 C21.4230769,9.04 21.5384615,9.04 21.6153846,8.97 L26.7692308,4.105 L26.8076923,4.105 C26.9615385,3.965 27.1923077,3.965 27.3461538,4.105 L27.8846154,4.595 C28.0384615,4.735 28.0384615,4.945 27.8846154,5.085 L21.7307692,10.895 C21.6538462,10.965 21.5769231,11 21.4615385,11 C21.3461538,11 21.2692308,10.965 21.1923077,10.895 L18.1923077,7.955 L18.1153846,7.85 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                    <g id="Group-2-Copy-2" transform="translate(17.000000, 241.000000)">
+                        <rect id="Rectangle-16" fill="url(#linearGradient-1)" x="0" y="0" width="46" height="17"></rect>
+                        <g id="checked-(2)" transform="translate(18.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                            <path d="M0.115384615,3.85 C0.0384615385,3.78 0,3.675 0,3.605 C0,3.535 0.0384615385,3.43 0.115384615,3.36 L0.653846154,2.87 C0.807692308,2.73 1.03846154,2.73 1.19230769,2.87 L1.23076923,2.905 L3.34615385,4.97 C3.42307692,5.04 3.53846154,5.04 3.61538462,4.97 L8.76923077,0.105 L8.80769231,0.105 C8.96153846,-0.035 9.19230769,-0.035 9.34615385,0.105 L9.88461538,0.595 C10.0384615,0.735 10.0384615,0.945 9.88461538,1.085 L3.73076923,6.895 C3.65384615,6.965 3.57692308,7 3.46153846,7 C3.34615385,7 3.26923077,6.965 3.19230769,6.895 L0.192307692,3.955 L0.115384615,3.85 Z" id="Shape"></path>
+                        </g>
+                        <path d="M18.1153846,7.85 C18.0384615,7.78 18,7.675 18,7.605 C18,7.535 18.0384615,7.43 18.1153846,7.36 L18.6538462,6.87 C18.8076923,6.73 19.0384615,6.73 19.1923077,6.87 L19.2307692,6.905 L21.3461538,8.97 C21.4230769,9.04 21.5384615,9.04 21.6153846,8.97 L26.7692308,4.105 L26.8076923,4.105 C26.9615385,3.965 27.1923077,3.965 27.3461538,4.105 L27.8846154,4.595 C28.0384615,4.735 28.0384615,4.945 27.8846154,5.085 L21.7307692,10.895 C21.6538462,10.965 21.5769231,11 21.4615385,11 C21.3461538,11 21.2692308,10.965 21.1923077,10.895 L18.1923077,7.955 L18.1153846,7.85 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g id="Group-6" transform="translate(179.000000, 0.000000)">
+                    <path d="M72,107 L140,107" id="Line-3-Copy-17" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M72,172 L140,172" id="Line-3-Copy-26" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M72,120 L140,120" id="Line-3-Copy-18" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M72,185 L140,185" id="Line-3-Copy-27" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M72.4791667,93.5 L140.951396,93.5" id="Line-3-Copy-19" stroke="#FF4669" stroke-width="5" stroke-linecap="square"></path>
+                    <path d="M72,133 L140,133" id="Line-3-Copy-20" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M72,198 L140,198" id="Line-3-Copy-28" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M86,146 L125.65476,146" id="Line-3-Copy-21" stroke="#FF4669" stroke-linecap="square"></path>
+                    <path d="M86,210 L125.65476,210" id="Line-3-Copy-29" stroke="#FF4669" stroke-linecap="square"></path>
+                    <text id="Tỷ-lệ-tương-tác-:-N%-Copy" font-family="Muli-Bold, Muli" font-size="11" font-weight="bold" line-spacing="20" letter-spacing="1" fill="#888888">
+                        <tspan x="46" y="334">Tỷ lệ tương tác : N%</tspan>
+                    </text>
+                    <rect id="Rectangle-27-Copy" stroke="#FF4669" x="21.5" y="45.5" width="169" height="250"></rect>
+                    <text id="B" font-family="OpenSans-Bold, Open Sans" font-size="20" font-weight="bold" line-spacing="30" fill="#FF4669">
+                        <tspan x="21" y="21">B</tspan>
+                    </text>
+                    <rect id="Rectangle-28-Copy" stroke="#FF4669" x="37.5" y="62.5" width="133" height="14"></rect>
+                    <g id="Group-2-Copy" transform="translate(84.000000, 241.000000)">
+                        <rect id="Rectangle-16" fill="url(#linearGradient-1)" x="0" y="0" width="46" height="17"></rect>
+                        <g id="checked-(2)" transform="translate(18.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                            <path d="M0.115384615,3.85 C0.0384615385,3.78 0,3.675 0,3.605 C0,3.535 0.0384615385,3.43 0.115384615,3.36 L0.653846154,2.87 C0.807692308,2.73 1.03846154,2.73 1.19230769,2.87 L1.23076923,2.905 L3.34615385,4.97 C3.42307692,5.04 3.53846154,5.04 3.61538462,4.97 L8.76923077,0.105 L8.80769231,0.105 C8.96153846,-0.035 9.19230769,-0.035 9.34615385,0.105 L9.88461538,0.595 C10.0384615,0.735 10.0384615,0.945 9.88461538,1.085 L3.73076923,6.895 C3.65384615,6.965 3.57692308,7 3.46153846,7 C3.34615385,7 3.26923077,6.965 3.19230769,6.895 L0.192307692,3.955 L0.115384615,3.85 Z" id="Shape"></path>
+                        </g>
+                        <path d="M18.1153846,7.85 C18.0384615,7.78 18,7.675 18,7.605 C18,7.535 18.0384615,7.43 18.1153846,7.36 L18.6538462,6.87 C18.8076923,6.73 19.0384615,6.73 19.1923077,6.87 L19.2307692,6.905 L21.3461538,8.97 C21.4230769,9.04 21.5384615,9.04 21.6153846,8.97 L26.7692308,4.105 L26.8076923,4.105 C26.9615385,3.965 27.1923077,3.965 27.3461538,4.105 L27.8846154,4.595 C28.0384615,4.735 28.0384615,4.945 27.8846154,5.085 L21.7307692,10.895 C21.6538462,10.965 21.5769231,11 21.4615385,11 C21.3461538,11 21.2692308,10.965 21.1923077,10.895 L18.1923077,7.955 L18.1153846,7.85 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                    <g id="ic_compare_arrows_48px" transform="translate(0.000000, 329.000000)" fill="#888888" fill-rule="nonzero">
+                        <path d="M5.608,7.07142857 L0,7.07142857 L0,8.64285714 L5.608,8.64285714 L5.608,11 L8.8,7.85714286 L5.608,4.71428571 L5.608,7.07142857 Z M10.392,6.28571429 L10.392,3.92857143 L16,3.92857143 L16,2.35714286 L10.392,2.35714286 L10.392,0 L7.2,3.14285714 L10.392,6.28571429 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

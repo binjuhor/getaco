@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="471px" height="220px" viewBox="0 0 471 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>tao forn</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="176" y="21" width="183" height="42"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="183" height="42" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="322" y="0" width="148" height="42"></rect>
+        <filter x="-27.7%" y="-33.3%" width="128.4%" height="200.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="-0 -0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-41.6%" y="-82.1%" width="156.1%" height="297.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="-20" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.120555933 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="86.220263%" id="linearGradient-6">
+            <stop stop-color="#FF4069" offset="0%"></stop>
+            <stop stop-color="#FF6959" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="02-.-tinh-nang" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-475.000000, -937.000000)">
+        <g id="Tạo-form" transform="translate(475.000000, 877.000000)">
+            <g id="tao-forn" transform="translate(0.000000, 74.000000)">
+                <rect id="Rectangle-22" stroke="#FF4669" x="176.5" y="127.5" width="182" height="41"></rect>
+                <rect id="Rectangle-22-Copy-3" stroke="#FF4669" x="176.5" y="74.5" width="182" height="41"></rect>
+                <use id="Rectangle-22-Copy" stroke="#FF4669" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="3" xlink:href="#path-1"></use>
+                <g id="Rectangle-22-Copy-2" filter="url(#filter-4)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-3"></use>
+                    <use fill="#FF4669" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <rect id="Rectangle-5" fill="#D8D8D8" x="175" y="191" width="14" height="14" rx="3"></rect>
+                <path d="M196.576923,198.5 L225.423077,198.5" id="Line-9" stroke="#979797" stroke-linecap="square"></path>
+                <path d="M196.527778,40.5 L271.946465,40.5" id="Line-3" stroke="#FF4669" stroke-linecap="square"></path>
+                <path d="M196.538462,97.5 L223.803976,97.5" id="Line-3-Copy" stroke="#FF4669" stroke-linecap="square"></path>
+                <path d="M196.534884,149.5 L241.516029,149.5" id="Line-3-Copy-2" stroke="#FF4669" stroke-linecap="square"></path>
+                <g id="Group-9" transform="translate(310.000000, 189.000000)">
+                    <rect id="Rectangle-16" fill="url(#linearGradient-6)" x="0" y="0" width="46" height="17"></rect>
+                    <g id="checked-(2)" transform="translate(18.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M0.115384615,3.85 C0.0384615385,3.78 0,3.675 0,3.605 C0,3.535 0.0384615385,3.43 0.115384615,3.36 L0.653846154,2.87 C0.807692308,2.73 1.03846154,2.73 1.19230769,2.87 L1.23076923,2.905 L3.34615385,4.97 C3.42307692,5.04 3.53846154,5.04 3.61538462,4.97 L8.76923077,0.105 L8.80769231,0.105 C8.96153846,-0.035 9.19230769,-0.035 9.34615385,0.105 L9.88461538,0.595 C10.0384615,0.735 10.0384615,0.945 9.88461538,1.085 L3.73076923,6.895 C3.65384615,6.965 3.57692308,7 3.46153846,7 C3.34615385,7 3.26923077,6.965 3.19230769,6.895 L0.192307692,3.955 L0.115384615,3.85 Z" id="Shape"></path>
+                    </g>
+                </g>
+                <g id="121693" transform="translate(339.000000, 11.000000)" fill="#000000" fill-rule="nonzero">
+                    <ellipse id="Oval" cx="7.46666667" cy="4.22222222" rx="4.26666667" ry="4.22222222"></ellipse>
+                    <path d="M8,10.5555556 C3.58171954,10.5555556 0,14.3362595 0,19 L16,19 C16,14.3362595 12.4182805,10.5555556 8,10.5555556 Z" id="Shape"></path>
+                </g>
+                <rect id="Rectangle-14" stroke="#FF4669" x="0.5" y="20.5" width="158" height="149"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

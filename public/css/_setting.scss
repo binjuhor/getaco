@@ -1,0 +1,325 @@
+.setting{
+  padding-left: 15px!important;
+  padding-right: 15px!important;
+  .setting_title{
+    border-bottom: solid 1px beau-theme-color('grey-d8');
+    .title{
+      padding-left: 0;
+    }
+    h2{
+      padding: 0 0 10px 0;
+    }
+    span{
+      font-family: $font-family-sans-serif;
+      font-size: 15px;
+      font-weight: 600;
+      line-height: 1.73;
+      text-align: left;
+      color: beau-theme-color('grey-88');
+      padding: 10px 0 20px 0;
+    }
+  }
+
+  .config_icon{
+        color: #B2B2B2;
+        font-size: 15px;
+  }
+  .config_mail{
+    &:hover{
+      .config_icon{
+        color: beau-theme-color('bg_primary');
+      }
+    }
+  }
+  .setting_content{
+    padding-top: 30px;
+    .setting_menu{
+      padding-left: 0px;
+      ul{
+        border-radius: 3px;
+        background-color: beau-theme-color('color-while');
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+        padding: 10px 0 10px 0;
+        li.active{
+          a{
+            color: beau-theme-color('bg_primary');
+          }
+          svg #facebook1,#facebook2,#facebook3,#facebook4{
+            fill: beau-theme-color('bg_primary');;
+          }
+        }
+        li{
+          &:hover  >svg #facebook1{
+            fill: beau-theme-color('bg_primary');;
+          }
+          &:hover  >svg #facebook2{
+            fill: beau-theme-color('bg_primary');;
+          }
+          &:hover  >svg #facebook3{
+            fill: beau-theme-color('bg_primary');;
+          }
+          &:hover  >svg #facebook4{
+            fill: beau-theme-color('bg_primary');;
+          }
+          &:hover >a{
+            color: beau-theme-color('bg_primary');
+          }
+          padding: 10px 10px 10px 25px;
+          list-style: none;
+          a{
+            font-family: $font-family-sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+            line-height: 1.63;
+            text-align: left;
+            color: beau-theme-color('grey-88');
+          }
+          svg{
+            margin: 0 5px 0 0;
+          }
+        }
+      }
+    }
+    .subscription_content{
+      padding-right: 0px;
+      .edit_company_plan{
+        padding: 0!important;
+        .info_subscription{
+          .wrapper_company{
+            padding: 30px 0 0 45px!important;
+          }
+          padding-left: 0!important;
+          .col-md-12{
+            padding-right: 0;
+            padding-left: 0;
+            .panel-body{
+              padding: 40px 0 0 0 ;
+              .edit_company_content{
+                padding: 0 45px 20px 40px;
+                input{
+                  font-family: $font-family-sans-serif;
+                  font-size: 15px;
+                  font-weight: 600;
+                  line-height: 1.73;
+                  text-align: left;
+                  color: beau-theme-color('grey-2a');
+                }
+              }
+            }
+          }
+        }
+      }
+      .edit_profile{
+        padding: 40px 0 0 0!important;
+        .info_subscription{
+          padding-left: 0!important;
+          .form_edit_profile{
+            padding: 0;
+            .form_edit_content{
+              padding: 0 40px 0 60px;
+              .item{
+                input{
+                  font-family: $font-family-sans-serif;
+                  font-size: 15px;
+                  font-weight: 600;
+                  line-height: 1.73;
+                  text-align: left;
+                  color: beau-theme-color('grey-2a');
+                }
+                margin-bottom: 0;
+              }
+              .company{
+                .col-md-6{
+                  padding-left: 27px;
+                  font-family: $font-family-sans-serif;
+                  font-size: 15px;
+                  font-weight: 600;
+                  line-height: 1.73;
+                  text-align: left;
+                  color: beau-theme-color('grey-2a');
+                }
+                margin-bottom: 25px;
+                label{
+                  padding-top: 0;
+                }
+              }
+            }
+            .action{
+              border-radius: 0;
+              box-shadow: none;
+              button{
+                height: 40px;
+                line-height: 40px;
+              }
+            }
+          }
+        }
+      }
+      .sub_plan{
+        padding-left: 60px!important;
+      }
+      .plans{
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+        padding: 40px 60px 30px 10px;
+        background-color: beau-theme-color('color-while');
+        .info_subscription{
+          .action{
+            border-radius: 0;
+            box-shadow: none;
+            button{
+              height: 40px;
+              line-height: 40px;
+            }
+          }
+          .profile{
+            padding: 0 0 30px 45px;
+          }
+          label{
+            text-align: left!important;
+          }
+          padding-left: 15px;
+          h1 {
+            font-family: $font-family-sans-serif;
+            font-size: 64px;
+            font-weight: 300;
+            line-height: 1.22;
+            text-align: left;
+            color: beau-theme-color('bg_primary');
+            small {
+              font-size: 14px;
+              font-weight: 400;
+              line-height: 1.71;
+              letter-spacing: 1px;
+              text-align: left;
+              color: beau-theme-color('grey-b2');
+            }
+          }
+          span{
+            padding: 10px 0 30px 0;
+            font-family: $font-family-sans-serif;
+            font-size: 15px;
+            font-weight: 600;
+            line-height: 1.73;
+            text-align: left;
+            color: beau-theme-color('grey-88');
+          }
+          .control_label{
+            padding: 10px 0 10px 0;
+            .profile_content{
+              font-family: $font-family-sans-serif;
+              font-size: 15px;
+              font-weight: 600;
+              line-height: 1.73;
+              text-align: left;
+              color: beau-theme-color('grey-2a');
+            }
+          }
+          .avatar{
+            font-family: $font-family-sans-serif;
+            font-size: 40px;
+            font-weight: 800;
+            padding: 0;
+            color: beau-theme-color('bg_primary');;
+            overflow: hidden;
+            width: 105px;
+            height: 105px;
+            line-height: 100px;
+            text-align: center;
+            border-radius: 100%;
+            background-color: beau-theme-color('grey-e9');
+            border: solid 3px beau-theme-color('bg_primary');
+            margin: 0 0 40px 0;
+            font-size: 35px; overflow: hidden;position: relative;background-size: 180px;background-repeat: no-repeat;background-position: center;
+            &:hover{
+              .avatar_edit{
+                top:70px;
+              }
+            }
+
+          }
+          .avatar_edit{
+              z-index: 1;position:absolute;top:100px;left:-5px;background-color:#00000059;width: 110px;height: 40px;font-size:12px;color:white;
+                transition: top 0.4s;
+              line-height:25px;cursor:pointer;
+
+            }
+        }
+        .detail_subscription{
+          .item{
+            .panel-default{
+              box-shadow: none!important;
+              border-radius: 3px;
+              background-color: #f5f5f5;
+              .panel-heading{
+                text-transform: uppercase;
+                border: none;
+                font-family: $font-family-sans-serif;
+                font-size: 14px;
+                font-weight: 800;
+                line-height: 1.71;
+                letter-spacing: 1px;
+                text-align: left;
+                color: beau-theme-color('grey-88');
+                padding: 30px 0 0 30px;
+              }
+              .panel-body{
+                ul{
+                  margin-bottom: 30px;
+                  padding-left: 0;
+                  li{
+                    font-family: $font-family-sans-serif;
+                    font-size: 13px;
+                    font-weight: 600;
+                    line-height: 1.69;
+                    text-align: left;
+                    color: beau-theme-color('grey-88');
+                    list-style: none;
+                  }
+                }
+                a{
+                  width: 100%;
+                  text-align: center;
+                }
+
+              }
+            }
+          }
+        }
+        .footer_subscription{
+          span{
+            font-family: $font-family-sans-serif;
+            font-size: 15px;
+            font-weight: 600;
+            line-height: 1.73;
+            text-align: left;
+            color: beau-theme-color('bg_primary');
+          }
+        }
+      }
+      .action{
+        padding: 20px 0 20px 60px;
+        border-radius: 3px;
+        border-top: solid 1px beau-theme-color('grey-d8');
+        background-color: beau-theme-color('color-while');
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+        a{
+          height: 40px;
+          line-height: 40px;
+        }
+      }
+      .change_password{
+        padding: 0;
+        .info_subscription{
+          padding-left: 0;
+          .col-md-12{
+            padding: 0;
+            .changPass_content{
+              padding: 40px 0 20px 60px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="370px" height="436px" viewBox="0 0 370 436" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="86.220263%" id="linearGradient-1">
+            <stop stop-color="#FF4069" offset="0%"></stop>
+            <stop stop-color="#FF6959" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="04-chi-tiết-trang-lĩnh-vực-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1075.000000, -2557.000000)">
+        <g id="Group-7" transform="translate(1076.000000, 2558.000000)">
+            <path d="M18.5,52.4985858 L18.5,406.046775" id="Line-9-Copy" stroke="#E1E1E1" stroke-width="3" stroke-linecap="square" stroke-dasharray="10"></path>
+            <path d="M100.5,0.5 L100.5,404.046775" id="Line-9-Copy-3" stroke="url(#linearGradient-1)" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M182.5,70.4940396 L182.5,406.046775" id="Line-9-Copy-6" stroke="#E1E1E1" stroke-width="3" stroke-linecap="square" stroke-dasharray="10"></path>
+            <path d="M264.5,36.5 L264.5,404.046775" id="Line-9-Copy-7" stroke="url(#linearGradient-1)" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M346.5,44.4875537 L346.5,406.046775" id="Line-9-Copy-2" stroke="#E1E1E1" stroke-width="3" stroke-linecap="square" stroke-dasharray="10"></path>
+            <text id="hiệu-quả-tăng-40%" transform="translate(79.000000, 309.000000) rotate(-90.000000) translate(-79.000000, -309.000000) " font-family="Muli-Bold, Muli" font-size="11" font-weight="bold" line-spacing="20" letter-spacing="2" fill="#FF4669">
+                <tspan x="2" y="310"> hiệu quả tăng 40%</tspan>
+            </text>
+            <text id="hiệu-quả-tăng-40%-copy" transform="translate(243.000000, 309.000000) rotate(-90.000000) translate(-243.000000, -309.000000) " font-family="Muli-Bold, Muli" font-size="11" font-weight="bold" line-spacing="20" letter-spacing="2" fill="#FF4669">
+                <tspan x="166" y="310"> hiệu quả tăng 40%</tspan>
+            </text>
+            <path d="M0.33524653,404.5 L367.632955,404.5" id="Line-11" stroke="#FF4669" stroke-width="2" stroke-linecap="square"></path>
+            <text id="kênh-A" font-family="Muli-Bold, Muli" font-size="11" font-weight="bold" letter-spacing="2" fill="#888888">
+                <tspan x="0" y="434">kênh A</tspan>
+            </text>
+            <text id="Kênh-B" font-family="Muli-Bold, Muli" font-size="11" font-weight="bold" letter-spacing="2" fill="#FF4669">
+                <tspan x="99" y="434">Kênh B</tspan>
+            </text>
+            <text id="Kênh-C" font-family="Muli-Bold, Muli" font-size="11" font-weight="bold" letter-spacing="2" fill="#888888">
+                <tspan x="183" y="434">Kênh C</tspan>
+            </text>
+            <text id="Kênh-D" font-family="Muli-Bold, Muli" font-size="11" font-weight="bold" letter-spacing="2" fill="#FF4669">
+                <tspan x="267" y="434">Kênh D</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="60px" viewBox="0 0 80 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="86.220263%" id="linearGradient-1">
+            <stop stop-color="#FF4069" offset="0%"></stop>
+            <stop stop-color="#FF6959" offset="100%"></stop>
+        </linearGradient>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0 0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="02-.-tinh-nang" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-826.000000, -4456.000000)">
+        <g id="#1-copy-6" transform="translate(776.000000, 4406.000000)">
+            <g id="#1">
+                <g id="Testimonial-left-Copy-6" transform="translate(50.000000, 50.000000)">
+                    <g id="Group-8">
+                        <rect id="Rectangle-26" stroke="#FF4669" stroke-width="2.2" x="1.1" y="1.1" width="77.8" height="57.8"></rect>
+                        <rect id="Rectangle-30" stroke="#FF4669" stroke-width="1.5" x="10.75" y="39.75" width="47.5" height="11.5"></rect>
+                        <g id="Group-23" transform="translate(43.000000, 39.000000)">
+                            <rect id="Rectangle-16" fill="url(#linearGradient-1)" filter="url(#filter-2)" x="2" y="0" width="13" height="13"></rect>
+                            <text id="" font-family="FontAwesome" font-size="8" font-weight="normal" letter-spacing="1.66666698" fill="#FFFFFF">
+                                <tspan x="4.66666651" y="9"></tspan>
+                            </text>
+                        </g>
+                        <path d="M11.5,12.5 L54.5116263,12.5" id="Line-6" stroke="#FF4669" stroke-width="1.5" stroke-linecap="square"></path>
+                        <path d="M11.5,17.5 L44.7415403,17.5" id="Line-6-Copy" stroke="#FF4669" stroke-width="1.5" stroke-linecap="square"></path>
+                        <path d="M11.5,22.5 L35.5208243,22.5" id="Line-6-Copy-2" stroke="#FF4669" stroke-width="1.5" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

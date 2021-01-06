@@ -1,0 +1,65 @@
+@import "beau_variables";
+@import "function";
+
+.title_register{
+	height: 48px;
+  font-family: $font-family-sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: beau-theme-colors('dark');
+  margin-bottom: 40px;
+  width: 100%;
+}
+
+.input_register{
+	padding-left: 93px;
+	padding-right: 93px;
+	margin-bottom: 0px;
+}
+.text_register{
+	padding: 0px;
+	min-height: 44px;
+  font-family: $font-family-sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.69;
+  letter-spacing: normal;
+  color: beau-theme-colors('grey-88');
+  margin-bottom: 20px;
+  margin-right: 0px;
+  width: 100%;
+}
+#step1{
+	padding-left: 30px;
+	padding-right: 30px;
+	input{
+		width: 100%;
+	}
+	.form-group{
+		margin-bottom: 0px;
+	}
+}
+#step2{
+	width: 100%;
+	padding-left: 30px;
+	padding-right: 30px;
+	input{
+		width: 100%;
+	}
+	.form-group{
+		margin-bottom: 0px;
+	}
+}
+.register_success{
+	margin-bottom: 20px;
+}
+.img_success{
+	content:url("../iconSVG/checkmark-circle.svg");
+	margin-bottom: 30px;
+}

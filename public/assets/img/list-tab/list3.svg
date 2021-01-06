@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="465px" height="440px" viewBox="0 0 465 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 18</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="86.220263%" id="linearGradient-1">
+            <stop stop-color="#FF4069" offset="0%"></stop>
+            <stop stop-color="#FF6959" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="86.220263%" id="linearGradient-2">
+            <stop stop-color="#CA2145" offset="0%"></stop>
+            <stop stop-color="#F86050" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="02-.-tinh-nang" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-478.000000, -1767.000000)">
+        <g id="Thống-kê---báo-cáo" transform="translate(478.000000, 1768.000000)">
+            <g id="Group-18">
+                <g id="Group-13">
+                    <polyline id="Combined-Shape-Copy" stroke="#F4F4F4" stroke-linecap="square" points="62 0.450817494 62 210.549183 62 211 63 211 63 210.549183 63 0.450817494 63 0 62 5.00507962e-17"></polyline>
+                    <polyline id="Combined-Shape-Copy-2" stroke="#F4F4F4" stroke-linecap="square" points="131 0.450817494 131 210.549183 131 211 132 211 132 210.549183 132 0.450817494 132 0 131 5.00507962e-17"></polyline>
+                    <polyline id="Combined-Shape-Copy-3" stroke="#F4F4F4" stroke-linecap="square" points="200 0.450817494 200 210.549183 200 211 201 211 201 210.549183 201 0.450817494 201 0 200 5.00507962e-17"></polyline>
+                    <polyline id="Combined-Shape-Copy-4" stroke="#F4F4F4" stroke-linecap="square" points="267 0.450817494 267 210.549183 267 211 268 211 268 210.549183 268 0.450817494 268 0 267 5.00507962e-17"></polyline>
+                    <polyline id="Combined-Shape-Copy-5" stroke="#F4F4F4" stroke-linecap="square" points="334 0.450817494 334 210.549183 334 211 335 211 335 210.549183 335 0.450817494 335 0 334 5.00507962e-17"></polyline>
+                    <polyline id="Combined-Shape-Copy-6" stroke="#F4F4F4" stroke-linecap="square" points="402 0.450817494 402 210.549183 402 211 403 211 403 210.549183 403 0.450817494 403 0 402 5.00507962e-17"></polyline>
+                    <polyline id="Combined-Shape-Copy-7" stroke="#F4F4F4" stroke-linecap="square" points="462 0.450817494 462 210.549183 462 211 463 211 463 210.549183 463 0.450817494 463 0 462 5.00507962e-17"></polyline>
+                    <polyline id="Combined-Shape-Copy-13" stroke="#F4F4F4" stroke-linecap="square" points="3 0.450817494 3 210.549183 3 211 4 211 4 210.549183 4 0.450817494 4 0 3 5.00507962e-17"></polyline>
+                    <polygon id="Path-8-Copy" fill="url(#linearGradient-1)" points="3.05112285 158.657628 63.3109966 138.079928 131.462552 135.669537 201.95111 108.72604 267.311258 99.8232811 334.517918 69.26947 401.764121 57.1974339 462.226436 49.3345938 462.226436 211.682875 3.05112285 211.682875"></polygon>
+                    <text id="May" font-family="Muli-Regular, Muli" font-size="12" font-weight="normal" line-spacing="22" fill="#888888">
+                        <tspan x="0" y="227">May</tspan>
+                    </text>
+                    <text id="Aug" font-family="Muli-Regular, Muli" font-size="12" font-weight="normal" line-spacing="22" fill="#888888">
+                        <tspan x="196" y="227">Aug</tspan>
+                    </text>
+                    <text id="June" font-family="Muli-Regular, Muli" font-size="12" font-weight="normal" line-spacing="22" fill="#888888">
+                        <tspan x="59" y="227">June</tspan>
+                    </text>
+                    <text id="Sep" font-family="Muli-Regular, Muli" font-size="12" font-weight="normal" line-spacing="22" fill="#888888">
+                        <tspan x="262" y="227">Sep</tspan>
+                    </text>
+                    <text id="july" font-family="Muli-Regular, Muli" font-size="12" font-weight="normal" line-spacing="22" fill="#888888">
+                        <tspan x="127" y="227">july</tspan>
+                    </text>
+                    <text id="Oct" font-family="Muli-Regular, Muli" font-size="12" font-weight="normal" line-spacing="22" fill="#888888">
+                        <tspan x="330" y="227">Oct</tspan>
+                    </text>
+                    <text id="Nov" font-family="Muli-Regular, Muli" font-size="12" font-weight="normal" line-spacing="22" fill="#888888">
+                        <tspan x="398" y="227">Nov</tspan>
+                    </text>
+                    <text id="Dec" font-family="Muli-Regular, Muli" font-size="12" font-weight="normal" line-spacing="22" fill="#888888">
+                        <tspan x="441.58" y="227">Dec</tspan>
+                    </text>
+                    <polygon id="Path-8" fill="url(#linearGradient-2)" points="3 168.255855 62.5119991 151.931636 131.777354 165.693085 199.796349 146.4357 268.202521 151.931636 334.517918 138 402.349862 151.931636 461.779383 138 461.779383 211.099292 3 211.099292"></polygon>
+                    <circle id="Oval-7-Copy-16" stroke="#333333" stroke-width="3" fill="#FFFFFF" stroke-linecap="square" cx="3.5" cy="168.5" r="1.5"></circle>
+                    <circle id="Oval-7-Copy-19" stroke="#B54B4B" stroke-width="3" fill="#FFFFFF" stroke-linecap="square" cx="3.5" cy="157.5" r="1.5"></circle>
+                    <circle id="Oval-7-Copy-17" stroke="#333333" stroke-width="3" fill="#FFFFFF" cx="63.5" cy="151.5" r="1.5"></circle>
+                    <circle id="Oval-7-Copy-20" stroke="#B54B4B" stroke-width="3" fill="#FFFFFF" cx="63.5" cy="138.5" r="1.5"></circle>
+                    <circle id="Oval-7-Copy-18" stroke="#333333" stroke-width="3" fill="#FFFFFF" cx="131.5" cy="165.5" r="1.5"></circle>
+                    <circle id="Oval-7-Copy-21" stroke="#B54B4B" stroke-width="3" fill="#FFFFFF" cx="131.5" cy="135.5" r="1.5"></circle>
+                    <circle id="Oval-7-Copy-24" stroke="#333333" stroke-width="3" fill="#FFFFFF" cx="403.5" cy="152.5" r="1.5"></circle>
+                    <circle id="Oval-7-Copy-32" stroke="#B54B4B" stroke-width="3" fill="#FFFFFF" cx="403.5" cy="56.5" r="1.5"></circle>
+                    <circle id="Oval-7-Copy-33" stroke="#B54B4B" stroke-width="3" fill="#FFFFFF" cx="461.5" cy="49.5" r="1.5"></circle>
+                    <circle id="Oval-7-Copy-25" stroke="#333333" stroke-width="3" fill="#FFFFFF" cx="461.5" cy="138.5" r="1.5"></circle>
+                    <circle id="Oval-7-Copy-26" stroke="#333333" stroke-width="3" fill="#FFFFFF" cx="333.5" cy="137.5" r="1.5"></circle>
+                    <circle id="Oval-7-Copy-31" stroke="#B54B4B" stroke-width="3" fill="#FFFFFF" cx="334.5" cy="69.5" r="1.5"></circle>
+                    <circle id="Oval-7-Copy-27" stroke="#333333" stroke-width="3" fill="#FFFFFF" cx="267.5" cy="152.5" r="1.5"></circle>
+                    <circle id="Oval-7-Copy-30" stroke="#B54B4B" stroke-width="3" fill="#FFFFFF" cx="267.5" cy="99.5" r="1.5"></circle>
+                    <circle id="Oval-7-Copy-28" stroke="#333333" stroke-width="3" fill="#FFFFFF" cx="200.5" cy="146.5" r="1.5"></circle>
+                    <circle id="Oval-7-Copy-29" stroke="#B54B4B" stroke-width="3" fill="#FFFFFF" cx="200.5" cy="108.5" r="1.5"></circle>
+                </g>
+                <path d="M232.5,290.5 L232.5,437.591808" id="Line-11" stroke="#E5E5E5" stroke-linecap="square"></path>
+                <g id="Group-16" transform="translate(3.000000, 290.000000)">
+                    <text id="Lượng-khách-hàng-tiế" font-family="Muli-Bold, Muli" font-size="11" font-weight="bold" line-spacing="20" letter-spacing="1" fill="#888888">
+                        <tspan x="0" y="11">Lượng khách hàng</tspan>
+                        <tspan x="0" y="31">tiếp cận</tspan>
+                        <tspan x="49.877" y="31"> </tspan>
+                    </text>
+                    <text id="Tăng-:-N-%" font-family="Muli-Black, Muli" font-size="11" font-weight="700" line-spacing="20" letter-spacing="1" fill="#474747">
+                        <tspan x="0" y="145">Tăng : N </tspan>
+                        <tspan x="57.202" y="145">%</tspan>
+                    </text>
+                    <g id="Group-10" transform="translate(0.000000, 60.000000)" fill="#D0D0D0" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group-10-Copy-7" transform="translate(0.000000, 96.000000)" fill="#D0D0D0" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group-10-Copy-3" transform="translate(38.000000, 60.000000)" fill="#D0D0D0" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group-10-Copy-8" transform="translate(38.000000, 96.000000)" fill="#D0D0D0" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group-10-Copy-4" transform="translate(76.000000, 60.000000)" fill="#D0D0D0" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group-10-Copy-9" transform="translate(76.000000, 96.000000)" fill="#D0D0D0" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group-10-Copy-5" transform="translate(114.000000, 60.000000)" fill="#D0D0D0" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group-10-Copy-10" transform="translate(114.000000, 96.000000)" fill="#D0D0D0" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                </g>
+                <g id="Group-15" transform="translate(290.000000, 290.000000)">
+                    <text id="Tỷ-lệ-đơn-hàng-thành" font-family="Muli-Bold, Muli" font-size="11" font-weight="bold" line-spacing="20" letter-spacing="1" fill="#888888">
+                        <tspan x="7" y="11">Tỷ lệ đơn </tspan>
+                        <tspan x="7" y="31">hàng thành công</tspan>
+                        <tspan x="111.364" y="31"> </tspan>
+                    </text>
+                    <text id="Tăng-:-N-%-Copy" font-family="Muli-Black, Muli" font-size="11" font-weight="700" line-spacing="20" letter-spacing="1" fill="#474747">
+                        <tspan x="0" y="145">Tăng : N </tspan>
+                        <tspan x="57.202" y="145">%</tspan>
+                    </text>
+                    <g id="Group-10-Copy-11" transform="translate(0.000000, 60.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group-10-Copy-12" transform="translate(0.000000, 96.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group-10-Copy-13" transform="translate(38.000000, 60.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group-10-Copy-14" transform="translate(38.000000, 96.000000)" fill="#D0D0D0" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group-10-Copy-15" transform="translate(76.000000, 60.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group-10-Copy-16" transform="translate(76.000000, 96.000000)" fill="#D0D0D0" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group-10-Copy-17" transform="translate(114.000000, 60.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group-10-Copy-18" transform="translate(114.000000, 96.000000)" fill="#D0D0D0" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group-10-Copy-19" transform="translate(152.000000, 60.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                        <circle id="Oval" cx="10" cy="6" r="6"></circle>
+                        <path d="M11,14 C4.92486437,14 0,19.3725793 0,26 L22,26 C22,19.3725793 17.0751356,14 11,14 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

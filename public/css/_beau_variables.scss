@@ -1,0 +1,54 @@
+
+
+
+// color
+$color-FFFEFE: #FFFEFE;
+$label-primary: #337ab7;
+$label-success: #5cb85c;
+$label-info: #5bc0de;
+$label-warning: #f0ad4e;
+$beau-theme-colors: (
+        // bg_primary: #2a2a2a, //Dark color
+        // bg_secondary: #4a2a2a, //Dark color
+        bg_primary: #ff4669,
+        bg_secondary: #e61e44,
+        dark: #2a2a2a,
+        grey-88: #888888,
+        grey-b2: #b2b2b2,
+        grey-d8: #d8d8d8,
+        grey-e9: #e9e9e9,
+        grey-f5: #f5f5f5,
+        grey-f8: #f5f5f5,
+        color-while: #ffffff,
+        f9: #f9f9f9,
+);
+//font
+$font-family-sans-serif: 'Muli', sans-serif;
+//
+
+$navbar-padding-y: 0;
+$navbar-padding-x: 0;
+
+$h1-letter-spacing :  -0.6px !default;
+$h2-letter-spacing :  -0.6px !default;
+$h3-letter-spacing :  -0.4px !default;
+$h4-letter-spacing :  -0.3px !default;
+$h5-letter-spacing :  -0.1px !default;
+$h6-letter-spacing :  -0.1px !default;
+
+$h1-font-size: rem(36);
+$h2-font-size: rem(30);
+$h3-font-size: rem(25);
+$h4-font-size: rem(20);
+$h5-font-size: rem(18);
+$h6-font-size: rem(16);
+
+//icon pag
+$arrow-color: #888888;
+$arrow-width:2px;
+$arrow-size: 10px;
+
+$arrow-direction-right : rotate(315deg);
+$arrow-direction-left : rotate(135deg);
+$arrow-direction-up : rotate(225deg);
+$arrow-direction-down : rotate(45deg);

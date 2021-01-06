@@ -1,0 +1,125 @@
+.err_fillter{
+	color: red;
+}
+.hide_advan{
+	width: 40px;
+	height: 40px;
+	padding: 10px;
+    background: beau-theme-color('grey-f5');
+    border-radius: 25px;
+	content: url(../iconSVG/arrow-right-2-gray.svg);
+	&:hover{
+		content: url("../iconSVG/arrow-right-2-white.svg");
+		background: beau-theme-color('bg_primary');
+	}
+}
+.scroll_advance_attr{
+	max-height: 450px;
+	overflow-y: auto;
+	&::-webkit-scrollbar {
+    width: 2px;
+	}
+	 
+	&::-webkit-scrollbar-track {
+	    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+	    border-radius: 10px;
+	}
+	 
+	&::-webkit-scrollbar-thumb {
+	    border-radius: 10px;
+	    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+	}
+}
+.scroll_fillter{
+	max-height: 450px;
+	overflow-y: auto;
+	&::-webkit-scrollbar {
+    width: 2px;
+	}
+	 
+	&::-webkit-scrollbar-track {
+	    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+	    border-radius: 10px;
+	}
+	 
+	&::-webkit-scrollbar-thumb {
+	    border-radius: 10px;
+	    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+	}
+}
+#show_form_save_fillter{
+	&:hover{
+		color: beau-theme-color('bg_primary') !important;
+	}
+}
+.save_fillter{
+	margin-top: 20px;
+	#hide_form_save_fillter{
+		height: 30px;
+		font-size:14px;
+		line-height: 30px;
+	}
+	#btn_create_fillter{
+		height: 30px;
+		font-size:14px;
+		line-height: 30px;
+	}
+}
+#form_save_fillter{
+	display: none;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	z-index: 1;
+	bottom: 0px;
+	background-color: rgba(0, 0, 0, 0.04);
+	.save_popup{
+		width: 400px;
+		position: absolute;
+		top: 25%;
+		right: 13%;
+		background-color: beau-theme-color('color-while');
+		opacity: 1;
+		padding: 20px;
+		box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.25);
+	}
+}
+.dropdown-fillter{
+	padding: 30px;
+	padding-bottom: 90px;
+	.date-midify>input{
+		border: none;
+		border-bottom: 1px solid #d8d8d8;
+	}
+}
+.drop_fillter {
+  margin-top: 30px; }
+.btn_popup_fillter{
+	height: 40px !important;
+	line-height: 40px !important;
+}
+.footer_fillter{
+	padding: 0px 30px 0px 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	position: absolute;
+	bottom: 0px;
+	left:0px ;
+	right:0px
+}
+#export{
+	height:50px;
+	font-size: 15px;
+	font-weight: 600;
+	line-height: 1.71;
+	letter-spacing: 1px;
+	text-align: center;
+	color: beau-theme-color('grey-88');
+	padding: 15px 0px 40px 0px;
+	cursor:pointer;
+	margin: 2px !important;
+	&:hover{
+		color: beau-theme-color('bg_primary');
+		background: beau-theme-color('color-while');
+	}
+}

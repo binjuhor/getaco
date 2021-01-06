@@ -1,0 +1,1845 @@
+#getaco #content {
+  overflow: hidden; }
+
+.btn {
+  transition: all 0.4s;
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 50px;
+  text-transform: uppercase;
+  line-height: 50px;
+  border-radius: 50px;
+  padding-top: 0px;
+  padding-bottom: 0px; }
+  .btn-primary {
+    height: 50px;
+    background: #ff4669;
+    font-weight: 600;
+    line-height: 50px; }
+    .btn-primary:hover {
+      background: #e61e44; }
+    .btn-primary:active {
+      background-color: #e61e44; }
+    .btn-primary:focus {
+      background-color: #e61e44; }
+
+.getacoEmbed input[type="radio"], .getacoEmbed input[type="checkbox"] {
+  display: none; }
+
+#form-heading {
+  height: 100px;
+  border-bottom: 1px #d8d8d8 solid; }
+  #form-heading .heading h3 {
+    font-family: "Muli", sans-serif;
+    font-size: 30px;
+    line-height: 1.4;
+    text-align: left;
+    color: #2a2a2a;
+    margin-bottom: 10px; }
+  #form-heading .heading span {
+    font-family: "Muli", sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.73;
+    text-align: left;
+    color: #888888;
+    margin-bottom: 25px; }
+  #form-heading .button_step {
+    margin-top: 25px; }
+    #form-heading .button_step button {
+      float: right;
+      margin-left: 10px; }
+    #form-heading .button_step p.preview_form {
+      height: 50px;
+      font-family: "Muli", sans-serif;
+      font-size: 14px;
+      font-weight: bold;
+      line-height: 1.71;
+      letter-spacing: 1px;
+      text-align: left;
+      color: #888888;
+      margin-right: 10px;
+      float: right;
+      border-right: 1px solid #d8d8d8;
+      padding: 15px 30px;
+      cursor: pointer; }
+  #form-heading .col-sm-6 {
+    padding: 0; }
+
+#content_build_form .step2 label.label_group {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 38px;
+  width: 100%;
+  font-family: Muli;
+  font-size: 25px;
+  line-height: 1.52;
+  text-align: left;
+  color: #2a2a2a; }
+
+.themes {
+  height: 270px;
+  float: left;
+  margin: 0px 15px; }
+  .themes .style {
+    height: 230px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    border-radius: 3px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+    cursor: pointer; }
+    .themes .style .theme {
+      height: 230px;
+      width: 100%;
+      border-radius: 3px;
+      background-color: #ffffff;
+      z-index: 0; }
+  .themes .theme_name {
+    text-align: center;
+    height: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+    color: white; }
+    .themes .theme_name p {
+      font-family: Muli;
+      font-size: 12px;
+      font-weight: 600;
+      line-height: 1.67;
+      letter-spacing: 1px;
+      text-align: center;
+      color: #888888; }
+
+.select_hidden {
+  border: solid 1px #ff4669;
+  background-color: #ff4669;
+  text-align: center;
+  width: 100%;
+  height: 230px;
+  padding: 83px 0px;
+  position: absolute;
+  z-index: 1;
+  top: 230px;
+  left: 0;
+  transition: 0.4s; }
+  .select_hidden .content {
+    width: 100%;
+    height: 100%; }
+    .select_hidden .content p {
+      font-family: "Muli", sans-serif;
+      font-size: 15px;
+      font-weight: 500;
+      line-height: 1.73;
+      color: #ffffff;
+      margin-bottom: 15px; }
+      .select_hidden .content p img {
+        margin-right: 2px;
+        content: url("../icon/artboard-copy-126.png"); }
+    .select_hidden .content a {
+      width: 100%;
+      font-family: "Muli", sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 1.71;
+      letter-spacing: 1px;
+      color: #fdfdfd;
+      text-decoration: underline; }
+
+#content_build_form .step1 {
+  margin-top: -100px; }
+  #content_build_form .step1 .image_step1 {
+    height: 190px;
+    width: 7%;
+    margin: 0 auto;
+    margin-top: 120px;
+    margin-bottom: 40px; }
+
+#content_build_form .heading_step1 {
+  margin-bottom: 70px; }
+  #content_build_form .heading_step1 p.heading {
+    font-family: "Muli", sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.33;
+    text-align: center;
+    color: #ff4669;
+    margin-bottom: 15px; }
+  #content_build_form .heading_step1 p.text_small {
+    font-family: "Muli", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.63;
+    text-align: center;
+    color: #888888; }
+
+.button_step1 {
+  text-align: center;
+  margin-bottom: 140px; }
+
+#step1_select_form .template {
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 30px; }
+  #step1_select_form .template .frames {
+    width: auto;
+    position: relative;
+    overflow: hidden;
+    height: 222px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15); }
+    #step1_select_form .template .frames .form_demo {
+      width: auto;
+      border-radius: 3px;
+      background-color: #ffffff;
+      cursor: pointer;
+      margin-bottom: 20px;
+      height: 100%; }
+    #step1_select_form .template .frames .select_hidden {
+      border-radius: 3px;
+      width: 100%;
+      top: 100%;
+      height: 100%;
+      padding: 40% 0; }
+      #step1_select_form .template .frames .select_hidden .content {
+        height: auto; }
+
+.theme_name p {
+  height: 20px;
+  font-family: Muli;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.67;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #888888; }
+
+#getaco #content {
+  position: relative; }
+  #getaco #content .build_form {
+    padding: 0 3%;
+    transition: 0.4s; }
+
+.attribute_menu, .html_2 {
+  position: absolute;
+  bottom: 200px;
+  right: 250px;
+  z-index: 4;
+  height: auto;
+  min-height: 350px;
+  width: 250px;
+  max-height: 500px;
+  overflow: scroll;
+  border-radius: 3px;
+  background-color: #ffffff;
+  box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.25);
+  display: none;
+  trasition: 'display 0.4s ease';
+  font-weight: 600; }
+  .attribute_menu p, .html_2 p {
+    padding: 17px 30px !important; }
+  .attribute_menu p.search, .html_2 p.search {
+    padding: 0 20px;
+    padding-top: 5px; }
+
+.html_2 {
+  display: block;
+  cursor: pointer;
+  width: 170px;
+  bottom: 50px;
+  height: auto;
+  max-height: 200px;
+  min-height: 150px;
+  left: 200px;
+  overflow: visible; }
+  .html_2 p:hover {
+    background-color: #e9e9e9;
+    color: #ff4669; }
+  .html_2 .icon {
+    position: absolute;
+    left: 170px;
+    top: 0;
+    width: 26px;
+    height: 26px;
+    background-color: white;
+    padding: 5px;
+    box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.15); }
+    .html_2 .icon:before {
+      content: url("../iconSVG/x-2-gray.svg"); }
+
+#element_type_group {
+  height: 100%;
+  width: 240px;
+  position: absolute;
+  top: 80px;
+  z-index: 1;
+  background-color: #ffffff;
+  border: 2px solid #d8d8d8;
+  transition: 0.4s;
+  margin-bottom: 100px;
+  overflow: scroll;
+  padding-bottom: 50px; }
+  #element_type_group p.search {
+    height: 70px;
+    margin-bottom: 10px;
+    color: #2b2b2b;
+    background-color: white;
+    padding: 15px 30px;
+    border: none;
+    margin: 0px;
+    width: 100%;
+    border-bottom: solid 1px #d8d8d8;
+    border-radius: 0px; }
+    #element_type_group p.search span.img {
+      float: left;
+      margin-top: 12px;
+      margin-right: 5px; }
+      #element_type_group p.search span.img:before {
+        content: url("../iconSVG/search-left-1504-copy.svg"); }
+    #element_type_group p.search span.input {
+      float: left;
+      width: 80%; }
+      #element_type_group p.search span.input input {
+        border: none;
+        width: 100%; }
+      #element_type_group p.search span.input .img {
+        float: left; }
+    #element_type_group p.search:hover {
+      background-color: #ffffff;
+      color: #888888; }
+  #element_type_group p {
+    height: 60px;
+    font-family: "Muli", sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.73;
+    text-align: left;
+    color: #888888;
+    padding: 17px 40px;
+    cursor: -webkit-grab; }
+    #element_type_group p span {
+      line-height: 1.73; }
+    #element_type_group p img {
+      margin-right: 10px;
+      height: 16px;
+      width: 16px; }
+    #element_type_group p:hover {
+      background-color: #e9e9e9;
+      color: #ff4669; }
+      #element_type_group p:hover img.gray {
+        display: none; }
+      #element_type_group p:hover img.copy {
+        display: inline-block; }
+    #element_type_group p img.copy, #element_type_group p img.copy-2 {
+      display: none; }
+
+.content_form {
+  min-height: 500px;
+  margin-top: 30px;
+  border-radius: 3px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+  padding: 40px 0px 10px 0px; }
+  .content_form .first_content {
+    width: 100%;
+    margin: 100px auto;
+    text-align: center; }
+    .content_form .first_content img {
+      width: 25%;
+      height: auto;
+      text-align: center; }
+    .content_form .first_content h3 {
+      font-family: "Muli", sans-serif;
+      font-size: 25px;
+      line-height: 1.52;
+      color: #ff4669;
+      margin-top: 43px;
+      margin-bottom: 10px; }
+    .content_form .first_content p {
+      font-family: "Muli", sans-serif;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 1.63;
+      color: #b2b2b2; }
+  .content_form .element_build {
+    height: auto !important; }
+    .content_form .element_build .content_element .loadding {
+      width: 100%;
+      font-size: 40px;
+      text-align: center; }
+      .content_form .element_build .content_element .loadding:before {
+        content: url("../iconSVG/ba_cham_gray.svg"); }
+    .content_form .element_build .content_element .form_field {
+      padding-left: 40px; }
+      .content_form .element_build .content_element .form_field .options .option {
+        padding: 10px 0px;
+        font-family: Muli;
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 1.73;
+        text-align: left;
+        color: #888888;
+        position: relative; }
+        .content_form .element_build .content_element .form_field .options .option .op img {
+          float: left;
+          width: 18px;
+          margin-top: 4px; }
+        .content_form .element_build .content_element .form_field .options .option .op span {
+          float: left;
+          width: calc(100% - 30px); }
+      .content_form .element_build .content_element .form_field .options .tool_option {
+        margin-right: 20px;
+        position: absolute;
+        z-index: 5;
+        right: 0;
+        bottom: 12px; }
+      .content_form .element_build .content_element .form_field .options .tool_option_2 {
+        width: 50px;
+        height: 110px;
+        background: white;
+        padding: 5px 17px;
+        float: none;
+        position: absolute;
+        top: 25px;
+        left: 8px;
+        z-index: 5;
+        border-radius: 3px;
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.25); }
+        .content_form .element_build .content_element .form_field .options .tool_option_2 span {
+          margin: 5px 0;
+          cursor: pointer; }
+      .content_form .element_build .content_element .form_field .label {
+        font-family: "Muli", sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        white-space: normal;
+        line-height: 1.63;
+        text-align: left;
+        color: #2a2a2a;
+        height: 100%;
+        padding-left: 0px;
+        margin-bottom: 10px; }
+        .content_form .element_build .content_element .form_field .label input.input_editable_text {
+          height: 100%;
+          border: none;
+          background-color: white;
+          padding-left: 0px; }
+      .content_form .element_build .content_element .form_field label {
+        font-family: "Muli", sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 1.63;
+        text-align: left;
+        transtion: 0.4s; }
+      .content_form .element_build .content_element .form_field input.beauvn_default, .content_form .element_build .content_element .form_field select.beauvn_default {
+        font-family: "Muli", sans-serif;
+        width: 100%;
+        height: 50px;
+        padding: 0 10px;
+        border-radius: 3px;
+        background-color: #f8f8f8;
+        border: solid 1px #d8d8d8;
+        padding: 11px 20px;
+        transition: 0.4s; }
+        .content_form .element_build .content_element .form_field input.beauvn_default ::placeholder, .content_form .element_build .content_element .form_field select.beauvn_default ::placeholder {
+          font-family: "Muli", sans-serif;
+          font-size: 15px;
+          font-weight: 600;
+          line-height: 1.73;
+          text-align: left;
+          color: #b2b2b2; }
+      .content_form .element_build .content_element .form_field button.beauvn_default {
+        height: 50px;
+        border-radius: 3px;
+        background-color: #2196F3;
+        font-family: "Muli", sans-serif;
+        font-size: 14px;
+        font-weight: 800;
+        line-height: 1.71;
+        letter-spacing: 2px;
+        text-align: left;
+        width: auto;
+        text-align: center;
+        color: #ffffff;
+        padding: 13px 30px; }
+      .content_form .element_build .content_element .form_field textarea.beauvn_default {
+        font-family: "Muli", sans-serif;
+        width: 100%;
+        height: 100px;
+        border-radius: 3px;
+        background-color: #f8f8f8;
+        border: solid 1px #d8d8d8;
+        padding: 11px 20px; }
+        .content_form .element_build .content_element .form_field textarea.beauvn_default ::placeholder {
+          font-family: "Muli", sans-serif;
+          font-size: 15px;
+          font-weight: 600;
+          line-height: 1.73;
+          text-align: left;
+          color: #b2b2b2; }
+      .content_form .element_build .content_element .form_field .add_options {
+        margin-top: 10px; }
+        .content_form .element_build .content_element .form_field .add_options .add_option, .content_form .element_build .content_element .form_field .add_options span {
+          font-family: "Muli", sans-serif;
+          font-size: 15px;
+          font-weight: 600;
+          line-height: 1.73;
+          text-align: left;
+          color: #888888;
+          cursor: pointer; }
+        .content_form .element_build .content_element .form_field .add_options .option_other {
+          font-family: "Muli", sans-serif;
+          font-size: 14px;
+          font-weight: 800;
+          line-height: 1.71;
+          letter-spacing: 2px;
+          text-align: left;
+          color: #ff4669;
+          cursor: pointer; }
+        .content_form .element_build .content_element .form_field .add_options span {
+          margin-right: 10px; }
+          .content_form .element_build .content_element .form_field .add_options span img {
+            width: 16px;
+            height: 16px; }
+
+.setting_form {
+  margin-top: 20px;
+  padding: 0;
+  margin-left: 200px; }
+  .setting_form span {
+    font-family: "Muli", sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.73;
+    text-align: left;
+    color: #888888;
+    cursor: pointer; }
+    .setting_form span img {
+      margin-right: 10px;
+      height: 17px;
+      margin-bottom: 3px; }
+  .setting_form span.mid {
+    margin: 0 20px;
+    padding: 0 20px;
+    border-left: 1px solid #d8d8d8;
+    border-right: 1px solid #d8d8d8; }
+
+.element_build {
+  margin-bottom: 30px;
+  border-radius: 3px;
+  background-color: #ffffff;
+  width: 100%;
+  transition: 0.4s; }
+  .element_build[data-type="html"] {
+    margin-bottom: 0px; }
+  .element_build .tool_edit {
+    border-top: solid 1px #d8d8d8;
+    padding: 5px 40px;
+    height: 50px;
+    margin-top: 30px;
+    transition: 0.8s; }
+    .element_build .tool_edit span {
+      trasition: 0.8s; }
+    .element_build .tool_edit .attribute {
+      margin-top: 7px; }
+      .element_build .tool_edit .attribute span {
+        overflow: visible !important; }
+      .element_build .tool_edit .attribute span.label {
+        font-family: "Muli", sans-serif;
+        font-size: 15px;
+        font-weight: 600;
+        white-space: normal;
+        line-height: 1.73;
+        display: inline !important;
+        text-align: left;
+        color: #888888;
+        padding-left: 0px; }
+      .element_build .tool_edit .attribute span.attr {
+        border-radius: 12.5px;
+        background-color: #e9e9e9;
+        padding: 6px 10px;
+        font-family: "Muli", sans-serif;
+        font-size: 10px;
+        font-weight: 800;
+        line-height: 1.4;
+        letter-spacing: 1px;
+        text-align: left;
+        color: #888888; }
+    .element_build .tool_edit .right {
+      padding-top: 6px; }
+      .element_build .tool_edit .right span {
+        float: right;
+        margin-left: 15px;
+        cursor: pointer; }
+      .element_build .tool_edit .right span.require {
+        border-left: solid 1px #d8d8d8;
+        padding-left: 20px;
+        font-family: "Muli", sans-serif;
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 1.73;
+        text-align: left;
+        color: #888888; }
+        .element_build .tool_edit .right span.require label {
+          margin: 0;
+          padding: 0; }
+      .element_build .tool_edit .right span.column_option {
+        margin-top: 4px;
+        display: none; }
+        .element_build .tool_edit .right span.column_option:before {
+          content: url("../iconSVG/column-option.svg"); }
+      .element_build .tool_edit .right .menu_column_option {
+        height: 142px;
+        width: 120px;
+        position: absolute;
+        top: 40px;
+        left: -50px;
+        z-index: 5;
+        padding: 10px;
+        box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.25);
+        border-radius: 3px;
+        background-color: white;
+        transition: 'height 0.4s ease'; }
+        .element_build .tool_edit .right .menu_column_option div {
+          margin-bottom: -25px;
+          transition: 0.2s; }
+          .element_build .tool_edit .right .menu_column_option div input[type="radio"], .element_build .tool_edit .right .menu_column_option div input[type="checkbox"] {
+            display: none; }
+            .element_build .tool_edit .right .menu_column_option div input[type="radio"] + label, .element_build .tool_edit .right .menu_column_option div input[type="checkbox"] + label {
+              color: #888888;
+              display: inline-block;
+              width: 100%;
+              line-height: 25px;
+              padding-right: 0 !important;
+              margin-right: 0px !important;
+              margin-bottom: 0px;
+              font-size: 13px;
+              font-weight: 600;
+              line-height: 1.69;
+              letter-spacing: normal;
+              color: #b2b2b2; }
+              .element_build .tool_edit .right .menu_column_option div input[type="radio"] + label:before, .element_build .tool_edit .right .menu_column_option div input[type="checkbox"] + label:before {
+                width: 20px;
+                height: 20px;
+                display: inline-block;
+                position: relative;
+                top: 4.5px;
+                left: 5px;
+                margin-right: 8px; }
+          .element_build .tool_edit .right .menu_column_option div input[type="radio"] + label {
+            font-size: 10px;
+            border-radius: 50px;
+            background: white; }
+            .element_build .tool_edit .right .menu_column_option div input[type="radio"] + label:before {
+              content: url(../iconSVG/shape-copy-11.svg); }
+          .element_build .tool_edit .right .menu_column_option div input[type="radio"]:checked + label {
+            color: #ff4669;
+            background: white; }
+            .element_build .tool_edit .right .menu_column_option div input[type="radio"]:checked + label:before {
+              content: url(../iconSVG/shape.svg); }
+          .element_build .tool_edit .right .menu_column_option div input[type="radio"]:checked:hover + label {
+            color: #ff4669; }
+            .element_build .tool_edit .right .menu_column_option div input[type="radio"]:checked:hover + label:before {
+              content: url(../iconSVG/shape.svg); }
+          .element_build .tool_edit .right .menu_column_option div input[type="radio"]:hover + label {
+            color: #ff4669; }
+            .element_build .tool_edit .right .menu_column_option div input[type="radio"]:hover + label:before {
+              content: url(../iconSVG/checkbox-red-hover.svg); }
+  .element_build .content_element {
+    display: inline-block;
+    width: 100%;
+    position: relative; }
+    .element_build .content_element .form_field {
+      width: calc(100% - 40px);
+      height: auto;
+      float: left;
+      padding-right: 0px; }
+    .element_build .content_element .sort {
+      width: 40px;
+      float: right;
+      height: 100%;
+      text-align: center;
+      position: absolute;
+      top: 50%;
+      right: 0px;
+      cursor: pointer; }
+      .element_build .content_element .sort img {
+        display: table;
+        float: none;
+        margin: 0 auto;
+        transform: translate(-50%, -50%);
+        cursor: -webkit-grab; }
+
+#style_build_form {
+  width: 380px;
+  height: 100%;
+  position: absolute;
+  top: 81px;
+  z-index: 3;
+  background-color: #ffffff;
+  border: 1px solid #d8d8d8;
+  transition: 0.4s;
+  transition-property: display;
+  transition-duration: 1s;
+  max-height: 100%;
+  overflow: scroll; }
+  #style_build_form .setting_style {
+    overflow: scroll;
+    width: 280px;
+    height: 100%;
+    margin: 0;
+    float: left;
+    display: none;
+    border-right: 1px solid #d8d8dd;
+    transition: 0.4s;
+    padding-bottom: 100px; }
+    #style_build_form .setting_style .bf_style {
+      height: 187px;
+      text-align: center;
+      padding-top: 30px; }
+      #style_build_form .setting_style .bf_style .select_first {
+        border-bottom: 1px solid #d8d8d8;
+        height: 100%;
+        padding: 0 15px; }
+        #style_build_form .setting_style .bf_style .select_first label {
+          margin-bottom: 23px;
+          font-family: "Muli", sans-serif;
+          font-size: 14px;
+          font-weight: 800;
+          white-space: normal;
+          line-height: 1.71;
+          letter-spacing: 1px;
+          color: #a2a2a2; }
+        #style_build_form .setting_style .bf_style .select_first .col-sm-4 {
+          padding: 0px;
+          transiton: 0.4s;
+          cursor: pointer; }
+          #style_build_form .setting_style .bf_style .select_first .col-sm-4.bf_style_active .text_select, #style_build_form .setting_style .bf_style .select_first .col-sm-4:hover .text_select {
+            background-color: #ff4669;
+            transition: background-color 0.5s ease;
+            color: white; }
+          #style_build_form .setting_style .bf_style .select_first .col-sm-4.bf_style_active .text_text, #style_build_form .setting_style .bf_style .select_first .col-sm-4:hover .text_text {
+            color: #ff4669; }
+          #style_build_form .setting_style .bf_style .select_first .col-sm-4.disable .text_select {
+            background-color: #e9e9e9;
+            color: #b2b2b2; }
+          #style_build_form .setting_style .bf_style .select_first .col-sm-4.disable .text_text {
+            color: #888888; }
+          #style_build_form .setting_style .bf_style .select_first .col-sm-4 .text_select {
+            width: 50px;
+            height: 50px;
+            border-radius: 100%;
+            background-color: #e9e9e9;
+            font-weight: 600;
+            font-size: 17px;
+            color: #b2b2b2;
+            line-height: 50px;
+            margin-left: 15px;
+            margin-bottom: 10px; }
+      #style_build_form .setting_style .bf_style .bf_setting_attribute {
+        padding: 30px; }
+        #style_build_form .setting_style .bf_style .bf_setting_attribute div {
+          margin-bottom: 10px; }
+        #style_build_form .setting_style .bf_style .bf_setting_attribute .text_text {
+          text-align: center;
+          margin-top: 15px; }
+        #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_size_line div {
+          width: 30%;
+          float: left; }
+          #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_size_line div p {
+            text-align: center; }
+        #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_size_line .bf_line {
+          margin: 0px 5%; }
+        #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_opacity label {
+          font-size: 15px;
+          font-weight: 600;
+          line-height: 1.73;
+          text-align: left;
+          color: #a2a2a2;
+          margin-bottom: 17px; }
+        @media screen and (-webkit-min-device-pixel-ratio: 0) {
+          #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_opacity input[type='range'] {
+            height: 3px;
+            -webkit-appearance: none;
+            background-color: #ff4669;
+            border-radirus: 20px; }
+          #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_opacity input[type='range']::-webkit-slider-runnable-track {
+            height: 20px;
+            -webkit-appearance: none;
+            color: red; }
+          #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_opacity input[type='range']::-webkit-slider-thumb {
+            width: 17px;
+            height: 17px;
+            box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+            background-color: #ff4669;
+            border: solid 3px white;
+            border-radius: 20px;
+            -webkit-appearance: none; } }
+        #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align {
+          margin-top: 30px; }
+          #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align div {
+            width: 40px;
+            height: 40px;
+            border-radius: 20px;
+            background-color: #e9e9e9;
+            float: left;
+            margin: 0 15px;
+            padding: 12px;
+            transition: background-color 0.4s;
+            cursor: pointer; }
+          #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .left:before {
+            content: url("../iconSVG/alignment-left-853-copy-8.svg"); }
+          #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .left.bf_style_active, #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .left:hover {
+            background-color: #ff4669; }
+            #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .left.bf_style_active:before, #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .left:hover:before {
+              content: url("../iconSVG/alignment-left-853-copy-6.svg"); }
+          #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .center {
+            padding: 13px; }
+            #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .center:before {
+              content: url("../iconSVG/alignment-left-853-copy-9.svg"); }
+            #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .center.bf_style_active, #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .center:hover {
+              background-color: #ff4669; }
+              #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .center.bf_style_active:before, #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .center:hover:before {
+                content: url("../iconSVG/alignment-left-853-copy-7.svg"); }
+          #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .right:before {
+            content: url("../iconSVG/alignment-right-854-copy-4.svg"); }
+          #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .right.bf_style_active, #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .right:hover {
+            background-color: #ff4669; }
+            #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .right.bf_style_active:before, #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_align .right:hover:before {
+              content: url("../iconSVG/alignment-right-854-copy-3.svg"); }
+        #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_color {
+          margin-top: 40px; }
+          #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_color #bf_color {
+            -webkit-appearance: none;
+            padding: 0;
+            border: none;
+            border-radius: 30px;
+            width: 30px;
+            float: right;
+            height: 30px;
+            box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.6);
+            background-color: #b2b2b2; }
+          #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_color #bf_color::-webkit-color-swatch {
+            border: none;
+            border-radius: 30px;
+            padding: 0;
+            border: solid 3px #ffffff; }
+          #style_build_form .setting_style .bf_style .bf_setting_attribute .bf_color #bf_color::-webkit-color-swatch-wrapper {
+            border: none;
+            border-radius: 30px;
+            padding: 0; }
+  #style_build_form .bf_width, #style_build_form .bf_height {
+    width: 80px;
+    float: left;
+    text-align: center !important; }
+    #style_build_form .bf_width p, #style_build_form .bf_height p {
+      text-align: center; }
+  #style_build_form .bf_lock {
+    width: 58px;
+    float: left;
+    height: 85px;
+    padding-top: 26px; }
+    #style_build_form .bf_lock .btn_lock:before {
+      content: url("../iconSVG/ic-lock-48-px-copy.svg"); }
+  #style_build_form .setting_field .field_style .bf_field_attribute .width_height {
+    width: 100%;
+    height: auto; }
+  #style_build_form .setting_field .field_style .bf_field_attribute .bf_opacity, #style_build_form .setting_field .field_style .bf_field_attribute .bf_color {
+    margin-bottom: 0px;
+    margin-top: 30px; }
+  #style_build_form .setting_field .field_style .bf_field_attribute .bf_radius {
+    margin-top: 0px; }
+  #style_build_form .setting_field .field_style .bf_shadow .bf_color {
+    margin-top: 0px; }
+  #style_build_form .setting_field .field_style .bf_shadow .bf_size_line {
+    margin-top: 30px; }
+  #style_build_form .setting_size .field_style .select_first div {
+    margin-left: 46px; }
+    #style_build_form .setting_size .field_style .select_first div p {
+      width: 200%;
+      margin-left: -50%; }
+  #style_build_form .setting_size .field_style .bf_setting_size .bf_style_active {
+    background: #ff4669; }
+    #style_build_form .setting_size .field_style .bf_setting_size .bf_style_active .text_text, #style_build_form .setting_size .field_style .bf_setting_size .bf_style_active label {
+      color: white; }
+  #style_build_form .bf_size_note {
+    color: #ff4669;
+    font-size: 14px;
+    background: white;
+    padding: 10px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    position: absolute;
+    top: 170px;
+    left: 30px;
+    display: none; }
+  #style_build_form .bf_setting_size .bf_size_form {
+    border-radius: 3px;
+    background-color: #f5f5f5;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    margin: 0 auto;
+    margin-bottom: 30px !important; }
+    #style_build_form .bf_setting_size .bf_size_form label {
+      font-size: 20px;
+      line-height: 1.6;
+      color: #a2a2a2; }
+    #style_build_form .bf_setting_size .bf_size_form p {
+      text-align: center !important;
+      margin-top: 0 !important;
+      font-weight: 100;
+      font-size: 14px; }
+  #style_build_form .bf_setting_size .size_s {
+    width: 100px;
+    height: 70px;
+    padding-top: 10px; }
+  #style_build_form .bf_setting_size .size_m {
+    width: 120px;
+    height: 90px;
+    padding-top: 20px; }
+  #style_build_form .bf_setting_size .size_l {
+    width: 150px;
+    height: 110px;
+    padding-top: 25px; }
+  #style_build_form .bf_setting_size .size_xl {
+    width: 180px;
+    height: 125px;
+    padding-top: 25px; }
+  #style_build_form .setting_background {
+    padding-top: 0px !important; }
+    #style_build_form .setting_background .background_style {
+      padding-top: 0px !important; }
+      #style_build_form .setting_background .background_style .bf_opacity, #style_build_form .setting_background .background_style .bf_size_line {
+        margin-top: 30px !important; }
+  #style_build_form .select_first .btn_style {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: #e9e9e9;
+    line-height: 50px;
+    padding-top: 4px !important;
+    padding-left: 1px !important;
+    margin: 0 15px; }
+    #style_build_form .select_first .btn_style:before {
+      content: url("../icons/detail-gray.svg"); }
+    #style_build_form .select_first .btn_style:hover {
+      background-color: #ff4669; }
+  #style_build_form .select_first .btn_nomarl:before {
+    content: url("../iconSVG/rectangle-3-copy.svg"); }
+  #style_build_form .select_first .btn_nomarl.bf_style_active, #style_build_form .select_first .btn_nomarl:hover {
+    background-color: #ff4669; }
+    #style_build_form .select_first .btn_nomarl.bf_style_active p, #style_build_form .select_first .btn_nomarl:hover p {
+      color: #ff4669; }
+    #style_build_form .select_first .btn_nomarl.bf_style_active:before, #style_build_form .select_first .btn_nomarl:hover:before {
+      content: url("../iconSVG/rectangle-3.svg"); }
+  #style_build_form .select_first .btn_typing:before {
+    margin-top: 2px;
+    content: url("../iconSVG/99184-copy.svg"); }
+  #style_build_form .select_first .btn_typing.bf_style_active, #style_build_form .select_first .btn_typing:hover {
+    background-color: #ff4669; }
+    #style_build_form .select_first .btn_typing.bf_style_active p, #style_build_form .select_first .btn_typing:hover p {
+      color: #ff4669; }
+    #style_build_form .select_first .btn_typing.bf_style_active:before, #style_build_form .select_first .btn_typing:hover:before {
+      color: #ff4669;
+      content: url("../iconSVG/99184.svg"); }
+  #style_build_form .select_first .btn_hover {
+    padding-top: 6px !important;
+    padding-left: 2px !important; }
+    #style_build_form .select_first .btn_hover:before {
+      content: url("../iconSVG/99176-copy.svg"); }
+    #style_build_form .select_first .btn_hover.bf_style_active, #style_build_form .select_first .btn_hover:hover {
+      background-color: #ff4669; }
+      #style_build_form .select_first .btn_hover.bf_style_active p, #style_build_form .select_first .btn_hover:hover p {
+        color: #ff4669; }
+      #style_build_form .select_first .btn_hover.bf_style_active:before, #style_build_form .select_first .btn_hover:hover:before {
+        content: url("../iconSVG/99176.svg"); }
+  #style_build_form .select_first .btn_custom_size:before {
+    margin-top: 2px;
+    margin-left: 1px;
+    content: url("../iconSVG/99174-copy.svg"); }
+  #style_build_form .select_first .btn_custom_size.bf_style_active, #style_build_form .select_first .btn_custom_size:hover {
+    background-color: #ff4669; }
+    #style_build_form .select_first .btn_custom_size.bf_style_active p, #style_build_form .select_first .btn_custom_size:hover p {
+      color: #ff4669; }
+    #style_build_form .select_first .btn_custom_size.bf_style_active:before, #style_build_form .select_first .btn_custom_size:hover:before {
+      content: url("../iconSVG/99174.svg"); }
+  #style_build_form .select_first .btn_pick_size:before {
+    margin-top: 1px;
+    margin-left: 2px;
+    content: url("../iconSVG/99181-copy.svg"); }
+  #style_build_form .select_first .btn_pick_size.bf_style_active, #style_build_form .select_first .btn_pick_size:hover {
+    background-color: #ff4669; }
+    #style_build_form .select_first .btn_pick_size.bf_style_active p, #style_build_form .select_first .btn_pick_size:hover p {
+      color: #ff4669; }
+    #style_build_form .select_first .btn_pick_size.bf_style_active:before, #style_build_form .select_first .btn_pick_size:hover:before {
+      content: url("../iconSVG/99181.svg"); }
+  #style_build_form .text_text {
+    font-family: "Muli", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.63;
+    text-align: center;
+    color: #888888; }
+  #style_build_form .menu_style {
+    margin: 0;
+    width: 98px;
+    height: 100%;
+    float: left; }
+    #style_build_form .menu_style .bf_menu {
+      margin-top: 40px;
+      text-align: center;
+      cursor: pointer;
+      transition: 0.4s; }
+    #style_build_form .menu_style .menu_text:before {
+      content: url("../iconSVG/bf-menu-2.svg"); }
+    #style_build_form .menu_style .menu_text.bf_style_active p, #style_build_form .menu_style .menu_text:hover p {
+      color: #ff4669; }
+    #style_build_form .menu_style .menu_text.bf_style_active:before, #style_build_form .menu_style .menu_text:hover:before {
+      content: url("../iconSVG/bf-menu-1.svg"); }
+    #style_build_form .menu_style .menu_field:before {
+      content: url("../iconSVG/bf-menu-4.svg"); }
+    #style_build_form .menu_style .menu_field.bf_style_active p, #style_build_form .menu_style .menu_field:hover p {
+      color: #ff4669; }
+    #style_build_form .menu_style .menu_field.bf_style_active:before, #style_build_form .menu_style .menu_field:hover:before {
+      content: url("../iconSVG/bf-menu-3.svg"); }
+    #style_build_form .menu_style .menu_button:before {
+      content: url("../iconSVG/bf-menu-6.svg"); }
+    #style_build_form .menu_style .menu_button.bf_style_active p, #style_build_form .menu_style .menu_button:hover p {
+      color: #ff4669; }
+    #style_build_form .menu_style .menu_button.bf_style_active:before, #style_build_form .menu_style .menu_button:hover:before {
+      content: url("../iconSVG/bf-menu-5.svg"); }
+    #style_build_form .menu_style .menu_size:before {
+      content: url("../iconSVG/bf-menu-8.svg"); }
+    #style_build_form .menu_style .menu_size.bf_style_active p, #style_build_form .menu_style .menu_size:hover p {
+      color: #ff4669; }
+    #style_build_form .menu_style .menu_size.bf_style_active:before, #style_build_form .menu_style .menu_size:hover:before {
+      content: url("../iconSVG/bf-menu-7.svg"); }
+    #style_build_form .menu_style .menu_background:before {
+      content: url("../iconSVG/bf-menu-10.svg"); }
+    #style_build_form .menu_style .menu_background.bf_style_active p, #style_build_form .menu_style .menu_background:hover p {
+      color: #ff4669; }
+    #style_build_form .menu_style .menu_background.bf_style_active:before, #style_build_form .menu_style .menu_background:hover:before {
+      content: url("../iconSVG/bf-menu-9.svg"); }
+  #style_build_form input[type="text"], #style_build_form input[type="email"], #style_build_form input[type="number"], #style_build_form input[type="password"], #style_build_form select:not([multiple]), #style_build_form .getacoEmbed .form-control, .getacoEmbed #style_build_form .form-control, #style_build_form .getacoEmbed [type="date"], .getacoEmbed #style_build_form [type="date"], #style_build_form .getacoEmbed [type="time"], .getacoEmbed #style_build_form [type="time"] {
+    border-radius: 0;
+    background: none;
+    border: none;
+    border-bottom: 1px solid #b2b2b2;
+    padding-bottom: 8px;
+    box-shadow: none;
+    text-align: center; }
+    #style_build_form input:focus[type="text"], #style_build_form input:focus[type="email"], #style_build_form input:focus[type="number"], #style_build_form input:focus[type="password"], #style_build_form select:focus:not([multiple]), #style_build_form .getacoEmbed .form-control:focus, .getacoEmbed #style_build_form .form-control:focus, #style_build_form .getacoEmbed :focus[type="date"], .getacoEmbed #style_build_form :focus[type="date"], #style_build_form .getacoEmbed :focus[type="time"], .getacoEmbed #style_build_form :focus[type="time"] {
+      border-bottom: 1px solid #ff4669;
+      outline: none;
+      box-shadow: none; }
+  #style_build_form input[type=number]::-webkit-outer-spin-button,
+  #style_build_form input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0; }
+  #style_build_form input {
+    font-family: "Muli", sans-serif; }
+    #style_build_form input[type="radio"], #style_build_form input[type="checkbox"] {
+      display: none; }
+      #style_build_form input[type="radio"] + label, #style_build_form input[type="checkbox"] + label {
+        display: inline-block;
+        line-fheight: 25px;
+        padding-right: 20px;
+        margin-right: 15px;
+        margin-bottom: 0px; }
+        #style_build_form input[type="radio"] + label:before, #style_build_form input[type="checkbox"] + label:before {
+          width: 20px;
+          height: 20px;
+          display: inline-block;
+          position: relative;
+          top: 4.5px;
+          left: 5px;
+          margin-right: 8px; }
+    #style_build_form input[type="radio"] + label {
+      font-size: 10px;
+      background: #e9e9e9;
+      border-radius: 50px; }
+      #style_build_form input[type="radio"] + label:before {
+        content: url(../icon/radio-gray.svg); }
+    #style_build_form input[type="radio"]:checked + label {
+      color: #ffffff;
+      background: #ff4669; }
+      #style_build_form input[type="radio"]:checked + label:before {
+        content: url(../icon/radio-white.svg); }
+    #style_build_form input[type="checkbox"] + label:before {
+      content: url(../icon/checkbox-uncheck.svg); }
+    #style_build_form input[type="checkbox"] + label:hover:before {
+      content: url(../icon/checkbox-active-uncheck.svg); }
+    #style_build_form input[type="checkbox"] + label.gray:before {
+      content: url(../icon/checkbox-gray.svg); }
+    #style_build_form input[type="checkbox"] + label.gray:hover:before {
+      content: url(../icon/checkbox-uncheck.svg); }
+    #style_build_form input[type="checkbox"]:checked + label:before {
+      content: url(../icon/checkbox-checked.svg); }
+  #style_build_form select:not([multiple]) {
+    border-radius: 0;
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    background-image: url(../icon/dropdown-gray.svg);
+    background-repeat: no-repeat;
+    background-position: 98% 15px; }
+    #style_build_form select:not([multiple]):focus {
+      background-image: url(../icon/dropdown-active.svg); }
+
+.beauvn_form_title {
+  font-size: 25px;
+  color: #2a2a2a; }
+
+.beauvn_form_subtitle {
+  font-size: 16px;
+  color: #a2a2a2;
+  font-weight: 400; }
+
+.beauvn_form_body {
+  font-size: 16px;
+  font-weight: normal;
+  color: #2a2a2a; }
+
+.step4 .content_form_setting .content.col-md-9 {
+  border-left: solid 1px #d8d8d8; }
+
+.step4 .content_form_setting .label_name label {
+  font-size: 20px;
+  line-height: 1.6;
+  text-align: left;
+  color: #2a2a2a; }
+
+.step4 .content_form_setting .label_name span {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.73;
+  text-align: left;
+  color: #888888; }
+
+.step4 .content_form_setting .display_type .content .item {
+  height: 150px;
+  border-radius: 3px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+  position: relative; }
+
+.step4 .content_form_setting .display_type .content .image {
+  display: block;
+  width: 100%;
+  height: auto; }
+
+.step4 .content_form_setting .display_type .content .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #ff4669; }
+
+.step4 .content_form_setting .display_type .content .item:hover .overlay {
+  opacity: 1; }
+
+.step4 .content_form_setting .display_type .content .text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center; }
+
+.step4 .content_form_setting .effect_type {
+  border-top: 1px solid #d8d8d8;
+  border-bottom: 1px solid #d8d8d8;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 20px; }
+  .step4 .content_form_setting .effect_type .effect_type_title {
+    height: 280px; }
+  .step4 .content_form_setting .effect_type .content {
+    padding-right: 0; }
+  .step4 .content_form_setting .effect_type .menu_animation {
+    padding-right: 0; }
+    .step4 .content_form_setting .effect_type .menu_animation ul {
+      padding-left: 0;
+      border-left: 1px solid #d8d8d8; }
+      .step4 .content_form_setting .effect_type .menu_animation ul li {
+        list-style: none;
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 1.73;
+        letter-spacing: normal;
+        text-align: left;
+        color: #888888;
+        height: 46px;
+        padding: 10px 0 10px 57px;
+        position: relative; }
+        .step4 .content_form_setting .effect_type .menu_animation ul li input {
+          padding-left: 0;
+          width: 100%; }
+        .step4 .content_form_setting .effect_type .menu_animation ul li:hover {
+          background-color: #e9e9e9; }
+          .step4 .content_form_setting .effect_type .menu_animation ul li:hover .view:before {
+            content: url("../iconSVG/view-simple-815-copy.svg"); }
+        .step4 .content_form_setting .effect_type .menu_animation ul li .view {
+          float: right;
+          margin-right: 10px; }
+      .step4 .content_form_setting .effect_type .menu_animation ul li.search {
+        padding: 15px 0 15px 30px;
+        height: 65px;
+        border-bottom: 1px solid #d8d8d8; }
+        .step4 .content_form_setting .effect_type .menu_animation ul li.search .text_search {
+          margin-bottom: 10px; }
+          .step4 .content_form_setting .effect_type .menu_animation ul li.search .text_search:before {
+            font-size: 20px;
+            content: url("../iconSVG/search-left-1504-copy.svg"); }
+        .step4 .content_form_setting .effect_type .menu_animation ul li.search input {
+          width: 80%;
+          border: none;
+          margin-bottom: 5px;
+          padding: 0 10px;
+          height: 30px; }
+          .step4 .content_form_setting .effect_type .menu_animation ul li.search input::placeholder {
+            font-size: 15px;
+            font-weight: 600;
+            line-height: 1.73;
+            text-align: left;
+            color: #888888; }
+      .step4 .content_form_setting .effect_type .menu_animation ul .icon {
+        width: 16px;
+        position: absolute;
+        top: 12px;
+        left: 30px; }
+    .step4 .content_form_setting .effect_type .menu_animation .active_effect {
+      color: #ff4669; }
+      .step4 .content_form_setting .effect_type .menu_animation .active_effect span.icon:before {
+        content: url("../iconSVG/shape-check.svg"); }
+  .step4 .content_form_setting .effect_type .display_type .content .display .style {
+    width: 100%; }
+  .step4 .content_form_setting .effect_type .display_type .content .display .select_hidden {
+    top: 230px; }
+    .step4 .content_form_setting .effect_type .display_type .content .display .select_hidden .content {
+      padding: 0; }
+  .step4 .content_form_setting .effect_type .display_type .content .display .theme_name {
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 1.71;
+    letter-spacing: 1px;
+    color: #888888; }
+
+.step4 #formDemoAnimated .content_form {
+  margin-left: 0 !important;
+  width: auto !important; }
+
+#popup_display .modal-content {
+  padding: 30px;
+  margin-top: 200px; }
+  #popup_display .modal-content .text-center {
+    margin-bottom: 20px;
+    font-size: 25px;
+    line-height: 1.52;
+    color: #2a2a2a; }
+  #popup_display .modal-content .text {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.73;
+    color: #888888; }
+
+.editable_button {
+  border-bottom: none !important;
+  text-align: center !important; }
+
+.step_form .content_form {
+  width: 567px !important; }
+
+.sortable-placeholder {
+  background-color: #ff466970;
+  height: 140px;
+  margin-bottom: 20px; }
+
+.formPreview {
+  width: 200px; }
+
+*:focus {
+  outline: none !important; }
+
+.getacoEmbed #style_build_form input.beauvn_template_2[type="text"], #style_build_form .getacoEmbed input.beauvn_template_2[type="text"], .getacoEmbed #style_build_form input.beauvn_template_2[type="email"], #style_build_form .getacoEmbed input.beauvn_template_2[type="email"], .getacoEmbed #style_build_form input.beauvn_template_2[type="number"], #style_build_form .getacoEmbed input.beauvn_template_2[type="number"], .getacoEmbed #style_build_form input.beauvn_template_2[type="password"], #style_build_form .getacoEmbed input.beauvn_template_2[type="password"], .getacoEmbed #style_build_form select.beauvn_template_2:not([multiple]), #style_build_form .getacoEmbed select.beauvn_template_2:not([multiple]), .getacoEmbed .beauvn_template_2.form-control, .getacoEmbed .beauvn_template_2[type="date"], .getacoEmbed .beauvn_template_2[type="time"], .getacoEmbed input.beauvn_template_2[type="text"], .getacoEmbed input.beauvn_template_2[type="email"], .getacoEmbed input.beauvn_template_2[type="number"], .getacoEmbed input.beauvn_template_2[type="password"], .getacoEmbed textarea.beauvn_template_2, .getacoEmbed button.beauvn_template_2, .getacoEmbed select.beauvn_template_2, .getacoEmbed input.beauvn_template_2.beauvn_template_3[type="date"], .getacoEmbed input.beauvn_template_2.beauvn_template_3[type="time"], .getacoEmbed #style_build_form input.beauvn_template_3[type="text"], #style_build_form .getacoEmbed input.beauvn_template_3[type="text"], .getacoEmbed #style_build_form input.beauvn_template_3[type="email"], #style_build_form .getacoEmbed input.beauvn_template_3[type="email"], .getacoEmbed #style_build_form input.beauvn_template_3[type="number"], #style_build_form .getacoEmbed input.beauvn_template_3[type="number"], .getacoEmbed #style_build_form input.beauvn_template_3[type="password"], #style_build_form .getacoEmbed input.beauvn_template_3[type="password"], .getacoEmbed #style_build_form select.beauvn_template_3:not([multiple]), #style_build_form .getacoEmbed select.beauvn_template_3:not([multiple]), .getacoEmbed .beauvn_template_3.form-control, .getacoEmbed .beauvn_template_3[type="date"], .getacoEmbed .beauvn_template_3[type="time"], .getacoEmbed input.beauvn_template_3[type="text"], .getacoEmbed input.beauvn_template_3[type="email"], .getacoEmbed input.beauvn_template_3[type="number"], .getacoEmbed input.beauvn_template_3[type="password"], .getacoEmbed textarea.beauvn_template_3, .getacoEmbed button.beauvn_template_3, .getacoEmbed select.beauvn_template_3, .getacoEmbed #style_build_form input[type="date"][type="text"], #style_build_form .getacoEmbed input[type="date"][type="text"], .getacoEmbed #style_build_form input[type="date"][type="email"], #style_build_form .getacoEmbed input[type="date"][type="email"], .getacoEmbed #style_build_form input[type="date"][type="number"], #style_build_form .getacoEmbed input[type="date"][type="number"], .getacoEmbed #style_build_form input[type="date"][type="password"], #style_build_form .getacoEmbed input[type="date"][type="password"], .getacoEmbed #style_build_form select[type="date"]:not([multiple]), #style_build_form .getacoEmbed select[type="date"]:not([multiple]), .getacoEmbed [type="date"], .getacoEmbed input[type="date"], .getacoEmbed input.beauvn_template_2[type="date"][type="time"], .getacoEmbed input.beauvn_template_3[type="date"][type="time"], .getacoEmbed #style_build_form input[type="time"][type="text"], #style_build_form .getacoEmbed input[type="time"][type="text"], .getacoEmbed #style_build_form input[type="time"][type="email"], #style_build_form .getacoEmbed input[type="time"][type="email"], .getacoEmbed #style_build_form input[type="time"][type="number"], #style_build_form .getacoEmbed input[type="time"][type="number"], .getacoEmbed #style_build_form input[type="time"][type="password"], #style_build_form .getacoEmbed input[type="time"][type="password"], .getacoEmbed #style_build_form select[type="time"]:not([multiple]), #style_build_form .getacoEmbed select[type="time"]:not([multiple]), .getacoEmbed [type="time"], .getacoEmbed input[type="time"] {
+  height: 50px;
+  border: 1px solid #d8d8d8;
+  border-radius: 0px;
+  width: 100%;
+  padding: 10px !important;
+  transition: 0.4s; }
+  .getacoEmbed #style_build_form input.beauvn_template_2[type="text"] ::placeholder, #style_build_form .getacoEmbed input.beauvn_template_2[type="text"] ::placeholder, .getacoEmbed #style_build_form input.beauvn_template_2[type="email"] ::placeholder, #style_build_form .getacoEmbed input.beauvn_template_2[type="email"] ::placeholder, .getacoEmbed #style_build_form input.beauvn_template_2[type="number"] ::placeholder, #style_build_form .getacoEmbed input.beauvn_template_2[type="number"] ::placeholder, .getacoEmbed #style_build_form input.beauvn_template_2[type="password"] ::placeholder, #style_build_form .getacoEmbed input.beauvn_template_2[type="password"] ::placeholder, .getacoEmbed #style_build_form select.beauvn_template_2:not([multiple]) ::placeholder, #style_build_form .getacoEmbed select.beauvn_template_2:not([multiple]) ::placeholder, .getacoEmbed .beauvn_template_2.form-control ::placeholder, .getacoEmbed .beauvn_template_2[type="date"] ::placeholder, .getacoEmbed .beauvn_template_2[type="time"] ::placeholder, .getacoEmbed input.beauvn_template_2[type="text"] ::placeholder, .getacoEmbed input.beauvn_template_2[type="email"] ::placeholder, .getacoEmbed input.beauvn_template_2[type="number"] ::placeholder, .getacoEmbed input.beauvn_template_2[type="password"] ::placeholder, .getacoEmbed textarea.beauvn_template_2 ::placeholder, .getacoEmbed button.beauvn_template_2 ::placeholder, .getacoEmbed select.beauvn_template_2 ::placeholder, .getacoEmbed #style_build_form input.beauvn_template_3[type="text"] ::placeholder, #style_build_form .getacoEmbed input.beauvn_template_3[type="text"] ::placeholder, .getacoEmbed #style_build_form input.beauvn_template_3[type="email"] ::placeholder, #style_build_form .getacoEmbed input.beauvn_template_3[type="email"] ::placeholder, .getacoEmbed #style_build_form input.beauvn_template_3[type="number"] ::placeholder, #style_build_form .getacoEmbed input.beauvn_template_3[type="number"] ::placeholder, .getacoEmbed #style_build_form input.beauvn_template_3[type="password"] ::placeholder, #style_build_form .getacoEmbed input.beauvn_template_3[type="password"] ::placeholder, .getacoEmbed #style_build_form select.beauvn_template_3:not([multiple]) ::placeholder, #style_build_form .getacoEmbed select.beauvn_template_3:not([multiple]) ::placeholder, .getacoEmbed .beauvn_template_3.form-control ::placeholder, .getacoEmbed .beauvn_template_3[type="date"] ::placeholder, .getacoEmbed .beauvn_template_3[type="time"] ::placeholder, .getacoEmbed input.beauvn_template_3[type="text"] ::placeholder, .getacoEmbed input.beauvn_template_3[type="email"] ::placeholder, .getacoEmbed input.beauvn_template_3[type="number"] ::placeholder, .getacoEmbed input.beauvn_template_3[type="password"] ::placeholder, .getacoEmbed textarea.beauvn_template_3 ::placeholder, .getacoEmbed button.beauvn_template_3 ::placeholder, .getacoEmbed select.beauvn_template_3 ::placeholder, .getacoEmbed #style_build_form input[type="date"][type="text"] ::placeholder, #style_build_form .getacoEmbed input[type="date"][type="text"] ::placeholder, .getacoEmbed #style_build_form input[type="date"][type="email"] ::placeholder, #style_build_form .getacoEmbed input[type="date"][type="email"] ::placeholder, .getacoEmbed #style_build_form input[type="date"][type="number"] ::placeholder, #style_build_form .getacoEmbed input[type="date"][type="number"] ::placeholder, .getacoEmbed #style_build_form input[type="date"][type="password"] ::placeholder, #style_build_form .getacoEmbed input[type="date"][type="password"] ::placeholder, .getacoEmbed #style_build_form select[type="date"]:not([multiple]) ::placeholder, #style_build_form .getacoEmbed select[type="date"]:not([multiple]) ::placeholder, .getacoEmbed [type="date"] ::placeholder, .getacoEmbed input.beauvn_template_2[type="date"][type="time"] ::placeholder, .getacoEmbed input.beauvn_template_3[type="date"][type="time"] ::placeholder, .getacoEmbed #style_build_form input[type="time"][type="text"] ::placeholder, #style_build_form .getacoEmbed input[type="time"][type="text"] ::placeholder, .getacoEmbed #style_build_form input[type="time"][type="email"] ::placeholder, #style_build_form .getacoEmbed input[type="time"][type="email"] ::placeholder, .getacoEmbed #style_build_form input[type="time"][type="number"] ::placeholder, #style_build_form .getacoEmbed input[type="time"][type="number"] ::placeholder, .getacoEmbed #style_build_form input[type="time"][type="password"] ::placeholder, #style_build_form .getacoEmbed input[type="time"][type="password"] ::placeholder, .getacoEmbed #style_build_form select[type="time"]:not([multiple]) ::placeholder, #style_build_form .getacoEmbed select[type="time"]:not([multiple]) ::placeholder, .getacoEmbed [type="time"] ::placeholder {
+    font-family: "Muli", sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.73;
+    text-align: left;
+    color: #b2b2b2; }
+  .getacoEmbed #style_build_form input.beauvn_template_2[type="text"] textarea, #style_build_form .getacoEmbed input.beauvn_template_2[type="text"] textarea, .getacoEmbed #style_build_form input.beauvn_template_2[type="email"] textarea, #style_build_form .getacoEmbed input.beauvn_template_2[type="email"] textarea, .getacoEmbed #style_build_form input.beauvn_template_2[type="number"] textarea, #style_build_form .getacoEmbed input.beauvn_template_2[type="number"] textarea, .getacoEmbed #style_build_form input.beauvn_template_2[type="password"] textarea, #style_build_form .getacoEmbed input.beauvn_template_2[type="password"] textarea, .getacoEmbed #style_build_form select.beauvn_template_2:not([multiple]) textarea, #style_build_form .getacoEmbed select.beauvn_template_2:not([multiple]) textarea, .getacoEmbed .beauvn_template_2.form-control textarea, .getacoEmbed .beauvn_template_2[type="date"] textarea, .getacoEmbed .beauvn_template_2[type="time"] textarea, .getacoEmbed input.beauvn_template_2[type="text"] textarea, .getacoEmbed input.beauvn_template_2[type="email"] textarea, .getacoEmbed input.beauvn_template_2[type="number"] textarea, .getacoEmbed input.beauvn_template_2[type="password"] textarea, .getacoEmbed textarea.beauvn_template_2 textarea, .getacoEmbed button.beauvn_template_2 textarea, .getacoEmbed select.beauvn_template_2 textarea, .getacoEmbed #style_build_form input.beauvn_template_3[type="text"] textarea, #style_build_form .getacoEmbed input.beauvn_template_3[type="text"] textarea, .getacoEmbed #style_build_form input.beauvn_template_3[type="email"] textarea, #style_build_form .getacoEmbed input.beauvn_template_3[type="email"] textarea, .getacoEmbed #style_build_form input.beauvn_template_3[type="number"] textarea, #style_build_form .getacoEmbed input.beauvn_template_3[type="number"] textarea, .getacoEmbed #style_build_form input.beauvn_template_3[type="password"] textarea, #style_build_form .getacoEmbed input.beauvn_template_3[type="password"] textarea, .getacoEmbed #style_build_form select.beauvn_template_3:not([multiple]) textarea, #style_build_form .getacoEmbed select.beauvn_template_3:not([multiple]) textarea, .getacoEmbed .beauvn_template_3.form-control textarea, .getacoEmbed .beauvn_template_3[type="date"] textarea, .getacoEmbed .beauvn_template_3[type="time"] textarea, .getacoEmbed input.beauvn_template_3[type="text"] textarea, .getacoEmbed input.beauvn_template_3[type="email"] textarea, .getacoEmbed input.beauvn_template_3[type="number"] textarea, .getacoEmbed input.beauvn_template_3[type="password"] textarea, .getacoEmbed textarea.beauvn_template_3 textarea, .getacoEmbed button.beauvn_template_3 textarea, .getacoEmbed select.beauvn_template_3 textarea, .getacoEmbed #style_build_form input[type="date"][type="text"] textarea, #style_build_form .getacoEmbed input[type="date"][type="text"] textarea, .getacoEmbed #style_build_form input[type="date"][type="email"] textarea, #style_build_form .getacoEmbed input[type="date"][type="email"] textarea, .getacoEmbed #style_build_form input[type="date"][type="number"] textarea, #style_build_form .getacoEmbed input[type="date"][type="number"] textarea, .getacoEmbed #style_build_form input[type="date"][type="password"] textarea, #style_build_form .getacoEmbed input[type="date"][type="password"] textarea, .getacoEmbed #style_build_form select[type="date"]:not([multiple]) textarea, #style_build_form .getacoEmbed select[type="date"]:not([multiple]) textarea, .getacoEmbed [type="date"] textarea, .getacoEmbed input.beauvn_template_2[type="date"][type="time"] textarea, .getacoEmbed input.beauvn_template_3[type="date"][type="time"] textarea, .getacoEmbed #style_build_form input[type="time"][type="text"] textarea, #style_build_form .getacoEmbed input[type="time"][type="text"] textarea, .getacoEmbed #style_build_form input[type="time"][type="email"] textarea, #style_build_form .getacoEmbed input[type="time"][type="email"] textarea, .getacoEmbed #style_build_form input[type="time"][type="number"] textarea, #style_build_form .getacoEmbed input[type="time"][type="number"] textarea, .getacoEmbed #style_build_form input[type="time"][type="password"] textarea, #style_build_form .getacoEmbed input[type="time"][type="password"] textarea, .getacoEmbed #style_build_form select[type="time"]:not([multiple]) textarea, #style_build_form .getacoEmbed select[type="time"]:not([multiple]) textarea, .getacoEmbed [type="time"] textarea {
+    height: 100px; }
+  .getacoEmbed #style_build_form input.beauvn_template_2:focus[type="text"], #style_build_form .getacoEmbed input.beauvn_template_2:focus[type="text"], .getacoEmbed #style_build_form input.beauvn_template_2:focus[type="email"], #style_build_form .getacoEmbed input.beauvn_template_2:focus[type="email"], .getacoEmbed #style_build_form input.beauvn_template_2:focus[type="number"], #style_build_form .getacoEmbed input.beauvn_template_2:focus[type="number"], .getacoEmbed #style_build_form input.beauvn_template_2:focus[type="password"], #style_build_form .getacoEmbed input.beauvn_template_2:focus[type="password"], .getacoEmbed #style_build_form select.beauvn_template_2:focus:not([multiple]), #style_build_form .getacoEmbed select.beauvn_template_2:focus:not([multiple]), .getacoEmbed .beauvn_template_2.form-control:focus, .getacoEmbed .beauvn_template_2:focus[type="date"], .getacoEmbed .beauvn_template_2:focus[type="time"], .getacoEmbed input.beauvn_template_2:focus[type="text"], .getacoEmbed input.beauvn_template_2:focus[type="email"], .getacoEmbed input.beauvn_template_2:focus[type="number"], .getacoEmbed input.beauvn_template_2:focus[type="password"], .getacoEmbed textarea.beauvn_template_2:focus, .getacoEmbed button.beauvn_template_2:focus, .getacoEmbed select.beauvn_template_2:focus, .getacoEmbed #style_build_form input.beauvn_template_3:focus[type="text"], #style_build_form .getacoEmbed input.beauvn_template_3:focus[type="text"], .getacoEmbed #style_build_form input.beauvn_template_3:focus[type="email"], #style_build_form .getacoEmbed input.beauvn_template_3:focus[type="email"], .getacoEmbed #style_build_form input.beauvn_template_3:focus[type="number"], #style_build_form .getacoEmbed input.beauvn_template_3:focus[type="number"], .getacoEmbed #style_build_form input.beauvn_template_3:focus[type="password"], #style_build_form .getacoEmbed input.beauvn_template_3:focus[type="password"], .getacoEmbed #style_build_form select.beauvn_template_3:focus:not([multiple]), #style_build_form .getacoEmbed select.beauvn_template_3:focus:not([multiple]), .getacoEmbed .beauvn_template_3.form-control:focus, .getacoEmbed .beauvn_template_3:focus[type="date"], .getacoEmbed .beauvn_template_3:focus[type="time"], .getacoEmbed input.beauvn_template_3:focus[type="text"], .getacoEmbed input.beauvn_template_3:focus[type="email"], .getacoEmbed input.beauvn_template_3:focus[type="number"], .getacoEmbed input.beauvn_template_3:focus[type="password"], .getacoEmbed textarea.beauvn_template_3:focus, .getacoEmbed button.beauvn_template_3:focus, .getacoEmbed select.beauvn_template_3:focus, .getacoEmbed #style_build_form input[type="date"]:focus[type="text"], #style_build_form .getacoEmbed input[type="date"]:focus[type="text"], .getacoEmbed #style_build_form input[type="date"]:focus[type="email"], #style_build_form .getacoEmbed input[type="date"]:focus[type="email"], .getacoEmbed #style_build_form input[type="date"]:focus[type="number"], #style_build_form .getacoEmbed input[type="date"]:focus[type="number"], .getacoEmbed #style_build_form input[type="date"]:focus[type="password"], #style_build_form .getacoEmbed input[type="date"]:focus[type="password"], .getacoEmbed #style_build_form select[type="date"]:focus:not([multiple]), #style_build_form .getacoEmbed select[type="date"]:focus:not([multiple]), .getacoEmbed [type="date"]:focus, .getacoEmbed input.beauvn_template_2[type="date"]:focus, .getacoEmbed input.beauvn_template_3[type="date"]:focus, .getacoEmbed #style_build_form input[type="time"]:focus[type="text"], #style_build_form .getacoEmbed input[type="time"]:focus[type="text"], .getacoEmbed #style_build_form input[type="time"]:focus[type="email"], #style_build_form .getacoEmbed input[type="time"]:focus[type="email"], .getacoEmbed #style_build_form input[type="time"]:focus[type="number"], #style_build_form .getacoEmbed input[type="time"]:focus[type="number"], .getacoEmbed #style_build_form input[type="time"]:focus[type="password"], #style_build_form .getacoEmbed input[type="time"]:focus[type="password"], .getacoEmbed #style_build_form select[type="time"]:focus:not([multiple]), #style_build_form .getacoEmbed select[type="time"]:focus:not([multiple]), .getacoEmbed [type="time"]:focus, .getacoEmbed input.beauvn_template_2[type="time"]:focus, .getacoEmbed input.beauvn_template_3[type="time"]:focus {
+    border-bottom: 1px solid #d8d8d8;
+    box-shadow: none; }
+
+.getacoEmbed #style_build_form input[type="text"], #style_build_form .getacoEmbed input[type="text"], .getacoEmbed #style_build_form input[type="email"], #style_build_form .getacoEmbed input[type="email"], .getacoEmbed #style_build_form input[type="number"], #style_build_form .getacoEmbed input[type="number"], .getacoEmbed #style_build_form input[type="password"], #style_build_form .getacoEmbed input[type="password"], .getacoEmbed #style_build_form select:not([multiple]), #style_build_form .getacoEmbed select:not([multiple]), .getacoEmbed .form-control, .getacoEmbed [type="date"], .getacoEmbed [type="time"], .getacoEmbed input[type="text"], .getacoEmbed input[type="email"], .getacoEmbed input[type="date"], .getacoEmbed input[type="time"], .getacoEmbed input[type="number"], .getacoEmbed input[type="password"] {
+  border-radius: 0;
+  background: none;
+  border: none;
+  border-bottom: 1px solid #b2b2b2;
+  padding-bottom: 8px;
+  height: 50px;
+  box-shadow: none; }
+  .getacoEmbed #style_build_form input:focus[type="text"], #style_build_form .getacoEmbed input:focus[type="text"], .getacoEmbed #style_build_form input:focus[type="email"], #style_build_form .getacoEmbed input:focus[type="email"], .getacoEmbed #style_build_form input:focus[type="number"], #style_build_form .getacoEmbed input:focus[type="number"], .getacoEmbed #style_build_form input:focus[type="password"], #style_build_form .getacoEmbed input:focus[type="password"], .getacoEmbed #style_build_form select:focus:not([multiple]), #style_build_form .getacoEmbed select:focus:not([multiple]), .getacoEmbed .form-control:focus, .getacoEmbed :focus[type="date"], .getacoEmbed :focus[type="time"], .getacoEmbed input:focus[type="text"], .getacoEmbed input:focus[type="email"], .getacoEmbed input:focus[type="number"], .getacoEmbed input:focus[type="password"] {
+    border-bottom: 1px solid #ff4669;
+    outline: none;
+    box-shadow: none; }
+
+.getacoEmbed input.beauvn_template_2[type="checkbox"] + label:before, .getacoEmbed input.beauvn_template_3[type="checkbox"] + label:before {
+  content: url(../icon/checkbox-uncheck.svg); }
+
+.getacoEmbed input.beauvn_template_2[type="checkbox"] + label:hover:before, .getacoEmbed input.beauvn_template_3[type="checkbox"] + label:hover:before {
+  content: url(../icon/checkbox-active-uncheck.svg); }
+
+.getacoEmbed input.beauvn_template_2[type="checkbox"] + label.gray:before, .getacoEmbed input.beauvn_template_3[type="checkbox"] + label.gray:before {
+  content: url(../icon/checkbox-gray.svg); }
+
+.getacoEmbed input.beauvn_template_2[type="checkbox"] + label.gray:hover:before, .getacoEmbed input.beauvn_template_3[type="checkbox"] + label.gray:hover:before {
+  content: url(../icon/checkbox-uncheck.svg); }
+
+.getacoEmbed input.beauvn_template_2[type="checkbox"]:checked + label:before, .getacoEmbed input.beauvn_template_3[type="checkbox"]:checked + label:before {
+  content: url(../icon/checkbox-checked.svg); }
+
+.getacoEmbed textarea.beauvn_template_2, .getacoEmbed textarea.beauvn_template_3 {
+  height: 100px; }
+
+.getacoEmbed select.beauvn_template_2, .getacoEmbed select.beauvn_template_3 {
+  border-radius: 0px !important; }
+
+.getacoEmbed button.beauvn_template_2 {
+  background-color: #0db75e;
+  color: white;
+  border: none;
+  padding: 0 !important;
+  font-weight: bold; }
+
+.getacoEmbed button.beauvn_template_3 {
+  background-color: #ff5a32;
+  font-weight: bold;
+  border: none;
+  padding: 0 !important;
+  color: white; }
+
+.getacoEmbed .box-nested, .getacoEmbed .tootip-resul, .getacoEmbed #chartjs-tooltip {
+  border-radius: 3px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+  display: inline-block;
+  width: 100%; }
+
+.getacoEmbed .box-nested {
+  padding: 20px 30px;
+  position: relative; }
+
+.getacoEmbed .row.with-padding {
+  padding-left: 15px;
+  padding-right: 15px; }
+
+.getacoEmbed .row.reportRow {
+  margin-bottom: 60px; }
+
+.getacoEmbed .row .form-switcher {
+  margin-bottom: 0px; }
+
+.getacoEmbed .tootip-resul {
+  display: inline-block; }
+
+.getacoEmbed .urlitem__content {
+  display: inline-block;
+  width: 100%;
+  height: auto;
+  min-height: 120px; }
+  .getacoEmbed .urlitem__content--blank {
+    text-align: center;
+    line-height: 120px; }
+    .getacoEmbed .urlitem__content--blank a {
+      display: inline-block;
+      width: 100%;
+      height: 120px;
+      border: 1px dashed #b2b2b2;
+      border-radius: 3px;
+      color: #b2b2b2; }
+      .getacoEmbed .urlitem__content--blank a:before {
+        content: url(../icons/plus-gray.svg);
+        position: relative;
+        top: 3px;
+        margin-right: 5px; }
+
+.getacoEmbed .urlitem.overview-item .text-uppercase {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 14px;
+  color: #888888; }
+
+.getacoEmbed .btn {
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 50px;
+  text-transform: uppercase;
+  line-height: 50px;
+  border-radius: 50px;
+  padding-top: 0px;
+  padding-bottom: 0px; }
+  .getacoEmbed .btn-primary {
+    height: 50px;
+    background: #ff4669;
+    font-weight: 600;
+    line-height: 50px; }
+    .getacoEmbed .btn-primary:hover {
+      background: #e61e44; }
+    .getacoEmbed .btn-primary:active {
+      background-color: #e61e44; }
+    .getacoEmbed .btn-primary:focus {
+      background-color: #e61e44; }
+  .getacoEmbed .btn-action {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #e9e9e9;
+    line-height: 40px;
+    position: relative;
+    margin: 2px; }
+    .getacoEmbed .btn-action:before {
+      content: url("../icons/detail-gray.svg");
+      position: absolute;
+      top: 55%;
+      left: 50%;
+      transform: translate(-50%, -50%); }
+    .getacoEmbed .btn-action:hover {
+      background-color: #ff4669; }
+  .getacoEmbed .btn-copy:before {
+    content: url("../icons/clone-gray.svg"); }
+  .getacoEmbed .btn-copy:hover:before {
+    content: url("../icons/clone-white.svg"); }
+  .getacoEmbed .btn-detail:before {
+    content: url("../icons/detail-gray.svg"); }
+  .getacoEmbed .btn-detail:hover:before {
+    content: url("../icons/detail-white.svg"); }
+  .getacoEmbed .btn-edit {
+    cursor: pointer; }
+    .getacoEmbed .btn-edit:before {
+      content: url("../icons/edit-gray.svg"); }
+    .getacoEmbed .btn-edit:hover:before {
+      content: url("../icons/edit-white.svg"); }
+  .getacoEmbed .btn-delete:before {
+    content: url("../icons/delete-gray.svg"); }
+  .getacoEmbed .btn-delete:hover:before {
+    content: url("../icons/delete-white.svg"); }
+  .getacoEmbed .btn-become:before {
+    content: url("../icons/become-gray.svg"); }
+  .getacoEmbed .btn-become:hover:before {
+    content: url("../icons/become-white.svg"); }
+  .getacoEmbed .btn-view:before {
+    content: url("../icons/view-gray.svg"); }
+  .getacoEmbed .btn-view:hover:before {
+    content: url("../icons/view-white.svg"); }
+  .getacoEmbed .btn-view.active {
+    position: relative; }
+    .getacoEmbed .btn-view.active:before {
+      top: 25px;
+      content: url("../icons/viewed-gray.svg"); }
+    .getacoEmbed .btn-view.active:hover:before {
+      content: url("../icons/viewed-white.svg"); }
+  .getacoEmbed .btn-select {
+    display: inline-block;
+    border-radius: 50px;
+    background: #e9e9e9;
+    color: #888888;
+    padding: 2px 15px;
+    margin-left: 10px;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 600; }
+    .getacoEmbed .btn-select:hover, .getacoEmbed .btn-select.active {
+      color: #fff;
+      background: #ff4669; }
+  .getacoEmbed .btn-dayselect {
+    margin-right: 10px;
+    position: relative; }
+    .getacoEmbed .btn-dayselect:before {
+      content: url(../icons/calendar-white.svg);
+      position: relative;
+      top: 5px; }
+    .getacoEmbed .btn-dayselect:nth-child(2) {
+      margin-right: 0px;
+      padding-left: 15px; }
+      .getacoEmbed .btn-dayselect:nth-child(2):after {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0px;
+        height: 100%;
+        width: 1px;
+        border-left: 1px solid #d8d8d8; }
+
+.getacoEmbed form label {
+  margin-top: 10px; }
+
+.getacoEmbed .form-control {
+  margin-bottom: 25px; }
+
+.getacoEmbed input {
+  font-family: "Muli", sans-serif; }
+  .getacoEmbed input[type="radio"], .getacoEmbed input[type="checkbox"] {
+    display: none; }
+    .getacoEmbed input[type="radio"] + label, .getacoEmbed input[type="checkbox"] + label {
+      display: inline-block;
+      line-height: 25px;
+      padding-right: 20px;
+      margin-right: 15px;
+      margin-bottom: 0px; }
+      .getacoEmbed input[type="radio"] + label:before, .getacoEmbed input[type="checkbox"] + label:before {
+        cursor: pointer;
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        position: relative;
+        top: 2.5px;
+        left: 0px;
+        margin-right: 5px; }
+  .getacoEmbed input[type="radio"] + label:before {
+    content: url(../iconSVG/radio-gray.svg); }
+  .getacoEmbed input[type="radio"] + label:hover:before {
+    content: url(../iconSVG/radio-hover.svg); }
+  .getacoEmbed input[type="radio"]:checked + label:before {
+    content: url(../iconSVG/radio-checked.svg); }
+  .getacoEmbed input[type="checkbox"] + label:before {
+    content: url(../icon/checkbox-uncheck.svg); }
+  .getacoEmbed input[type="checkbox"] + label:hover:before {
+    content: url(../icon/checkbox-active-uncheck.svg); }
+  .getacoEmbed input[type="checkbox"] + label.gray:before {
+    content: url(../icon/checkbox-gray.svg); }
+  .getacoEmbed input[type="checkbox"] + label.gray:hover:before {
+    content: url(../icon/checkbox-uncheck.svg); }
+  .getacoEmbed input[type="checkbox"]:checked + label:before {
+    content: url(../icon/checkbox-checked.svg); }
+  .getacoEmbed input.search {
+    margin-left: 25px;
+    padding: 9px 30px;
+    padding-left: 65px;
+    height: 60px;
+    width: 70%;
+    border-radius: 30px;
+    background-color: #f5f5f5;
+    background-image: url(../icons/search-gray.svg);
+    background-repeat: no-repeat;
+    background-position: 30px 20px;
+    font-size: 16px;
+    text-align: left;
+    border: none; }
+    .getacoEmbed input.search::placeholder {
+      font-family: Muli;
+      font-size: 16px;
+      font-weight: 600;
+      color: #b2b2b2; }
+  .getacoEmbed input[name="tag[]"] + label, .getacoEmbed input[name="id_color"] + label {
+    text-transform: uppercase;
+    display: inline;
+    padding-right: 10px; }
+    .getacoEmbed input[name="tag[]"] + label:before, .getacoEmbed input[name="id_color"] + label:before {
+      display: none; }
+  .getacoEmbed input[name="tag[]"]:checked + label.tag_label_default, .getacoEmbed input[name="id_color"]:checked + label.tag_label_default {
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: grey; }
+  .getacoEmbed input[name="tag[]"]:checked + label.tag_label_default_2, .getacoEmbed input[name="id_color"]:checked + label.tag_label_default_2 {
+    text-transform: uppercase;
+    color: #888888;
+    background-color: #e9e9e9; }
+  .getacoEmbed input[name="tag[]"]:checked + label.tag_label_checked, .getacoEmbed input[name="id_color"]:checked + label.tag_label_checked {
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #ff4669; }
+  .getacoEmbed input[name="tag[]"]:checked + label.tag_label_primary, .getacoEmbed input[name="id_color"]:checked + label.tag_label_primary {
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #337ab7; }
+  .getacoEmbed input[name="tag[]"]:checked + label.tag_label_success, .getacoEmbed input[name="id_color"]:checked + label.tag_label_success {
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #5cb85c; }
+  .getacoEmbed input[name="tag[]"]:checked + label.tag_label_info, .getacoEmbed input[name="id_color"]:checked + label.tag_label_info {
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #5bc0de; }
+  .getacoEmbed input[name="tag[]"]:checked + label.tag_label_warning, .getacoEmbed input[name="id_color"]:checked + label.tag_label_warning {
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #f0ad4e; }
+
+.getacoEmbed select:not([multiple]) {
+  border-radius: 0;
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  background-image: url(../icon/dropdown-gray.svg);
+  background-repeat: no-repeat;
+  background-position: 99% 20px;
+  min-height: 50px; }
+  .getacoEmbed select:not([multiple]):focus {
+    background-image: url(../icon/dropdown-active.svg); }
+
+.getacoEmbed label {
+  color: #888888; }
+
+#chartjs-tooltip {
+  position: fixed;
+  min-width: 165px;
+  display: inline-block;
+  transform: translate(10%, -50%);
+  width: auto; }
+  #chartjs-tooltip .gray-title {
+    font-weight: normal;
+    color: #b2b2b2;
+    font-size: 13px; }
+  #chartjs-tooltip .visistor {
+    color: #bd10e0; }
+  #chartjs-tooltip .lead {
+    color: #f5a623; }
+
+.piechart-data {
+  display: inline-block;
+  margin-bottom: 25px; }
+  .piechart-data .small-chart {
+    width: 60px;
+    height: 60px;
+    margin-right: 15px;
+    display: inline-block; }
+  .piechart-data .chart-infor {
+    position: relative;
+    top: -5px;
+    display: inline-block; }
+
+.line-chart {
+  width: 100%;
+  display: inline-block; }
+
+.reports_header {
+  border-bottom: 1px solid #d8d8d8; }
+
+.form__select_days {
+  position: relative;
+  top: 20px; }
+
+.avatar-prefix {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  display: inline-block;
+  background: #d8d8d8;
+  text-align: center;
+  color: #fff;
+  margin-right: 10px; }
+
+.level {
+  display: inline-block;
+  border-radius: 50px;
+  line-height: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase; }
+  .level-high {
+    background: #bd10e0; }
+  .level-medium {
+    background: #f5a623; }
+  .level-low {
+    background: #ff4669; }
+
+.small-pagetitle {
+  margin-bottom: 20px; }
+
+.box-information {
+  float: left;
+  width: 50%; }
+  .box-information p {
+    font-size: 13px;
+    white-space: nowrap; }
+  .box-information .text-uppercase p {
+    font-size: 13px;
+    margin-bottom: 10px; }
+
+.small-visual {
+  float: right;
+  width: 50%;
+  max-height: 75px; }
+
+.form-group {
+  margin-bottom: 15px !important; }
+
+.fillter-popup {
+  border-radius: 5px; }
+
+.formPreview {
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+  padding: 15px;
+  margin: 15px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+  transition: all .3s; }
+  .formPreview__thumb {
+    max-height: 200px;
+    width: auto; }
+  .formPreview__action {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 45px;
+    height: 50px; }
+    .formPreview__action a {
+      display: inline-block;
+      width: 30px;
+      height: 30px;
+      line-height: 30px;
+      border-radius: 50%;
+      text-align: center;
+      background: #ff4669;
+      color: #fff;
+      box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+      transition: all 0.15s;
+      position: absolute;
+      font-size: 14px;
+      top: 10px;
+      right: -30px;
+      opacity: 0; }
+      .formPreview__action a.delete {
+        transition: all 0.45s;
+        top: 85px; }
+      .formPreview__action a.edit {
+        transition: all 0.3s;
+        top: 47px; }
+      .formPreview__action a.preview {
+        font-size: 14px; }
+      .formPreview__action a:hover {
+        background: #e61e44;
+        color: #fff; }
+  .formPreview__name {
+    height: 30px;
+    border-top: 1px solid #cccccc;
+    padding-top: 10px; }
+  .formPreview:hover {
+    box-shadow: 2px 2px 8px 0 rgba(0, 0, 0, 0.4); }
+    .formPreview:hover .formPreview__action a {
+      right: 10px;
+      opacity: 1; }
+
+.user__name.col-md-9 {
+  white-space: nowrap;
+  padding: 0; }
+
+.getacoEmbed input {
+  font-family: "Muli", sans-serif; }
+  .getacoEmbed input[type="radio"], .getacoEmbed input[type="checkbox"] {
+    display: none; }
+    .getacoEmbed input[type="radio"] + label, .getacoEmbed input[type="checkbox"] + label {
+      display: inline-block;
+      line-height: 25px;
+      padding-right: 20px;
+      margin-right: 15px;
+      margin-bottom: 0px; }
+      .getacoEmbed input[type="radio"] + label:before, .getacoEmbed input[type="checkbox"] + label:before {
+        cursor: pointer;
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        position: relative;
+        top: 2.5px;
+        left: 0px;
+        margin-right: 5px; }
+  .getacoEmbed input[type="radio"] + label:before {
+    content: url(../iconSVG/radio-gray.svg); }
+  .getacoEmbed input[type="radio"] + label:hover:before {
+    content: url(../iconSVG/radio-hover.svg); }
+  .getacoEmbed input[type="radio"]:checked + label:before {
+    content: url(../iconSVG/radio-checked.svg); }
+  .getacoEmbed input[type="checkbox"] + label:before {
+    content: url(../icon/checkbox-uncheck.svg); }
+  .getacoEmbed input[type="checkbox"] + label:hover:before {
+    content: url(../icon/checkbox-active-uncheck.svg); }
+  .getacoEmbed input[type="checkbox"] + label.gray:before {
+    content: url(../icon/checkbox-gray.svg); }
+  .getacoEmbed input[type="checkbox"] + label.gray:hover:before {
+    content: url(../icon/checkbox-uncheck.svg); }
+  .getacoEmbed input[type="checkbox"]:checked + label:before {
+    content: url(../icon/checkbox-checked.svg); }
+
+#getacoEmbed340 .beauvn_form_title {
+  font-size: 30px;
+  background: linear-gradient(151.71deg, #ac7fef 0%, #ff5d00 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; }
+
+#getacoEmbed340 .content_form {
+  margin: 0;
+  padding: 0;
+  background: none;
+  box-shadow: none; }
+  @media screen and (max-width: 660px) {
+    #getacoEmbed340 .content_form {
+      width: 100% !important; } }
+  #getacoEmbed340 .content_form .element_build {
+    margin-bottom: 15px !important;
+    background: none !important; }
+    #getacoEmbed340 .content_form .element_build .content_element {
+      background: none; }
+      #getacoEmbed340 .content_form .element_build .content_element .form_field {
+        padding-left: 20px; }
+
+#getacoEmbed340 input {
+  border: none;
+  border-bottom: 1px solid #cacaca;
+  height: 40px;
+  width: 100%; }
+  @media screen and (min-width: 660px) {
+    #getacoEmbed340 input {
+      width: 440px; } }
+  #getacoEmbed340 input:focus {
+    border-bottom: 1px solid #ff5a32; }
+
+#getacoEmbed340 button {
+  margin-top: 30px;
+  width: 100%;
+  border-radius: 100px;
+  padding: 13px 30px !important;
+  line-height: 30px;
+  background: linear-gradient(to right, #ff512f, #f09819);
+  transition: all .3s;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s; }
+  @media screen and (min-width: 660px) {
+    #getacoEmbed340 button {
+      width: 45%; } }
+  #getacoEmbed340 button:hover {
+    background: linear-gradient(to right, #f09819, #ff512f); }
+
+#getacoEmbed340 input::placeholder {
+  font-size: 15px; }
+
+.popup-form__inner {
+  padding: 70px 60px; }
+  @media screen and (max-width: 660px) {
+    .popup-form__inner {
+      padding: 70px 30px; } }
+  .popup-form__inner .getacoMessage {
+    padding-left: 20px; }

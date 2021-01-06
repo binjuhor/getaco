@@ -1,0 +1,148 @@
+@import "beau_variables";
+@import "function";
+.login_header{
+	width: 100%;
+	padding: 0px;
+	margin: 0 0 100px 0;
+	@media only screen and (max-width: 1500px) {
+		margin: 0 0 50px 0;
+	}
+	height: 100px;
+    background-color: beau-theme-color('color-while');
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+    a{
+    	margin-top: 38px;
+    	line-height: 24px;
+    	font-family: $font-family-sans-serif;
+		font-size: 14px;
+		font-weight: 600;
+		font-style: normal;
+		font-stretch: normal;
+		letter-spacing: 1px;
+		color: beau-theme-color('grey-88');
+		  img{
+			content:url('../icon/artboard-copy-41.png');
+		  }
+    }
+    div{
+    	font-family: $font-family-sans-serif;
+    	line-height: 38px;
+	    font-size: 32px;
+	    font-weight: 600;
+	    font-style: normal;
+	    font-stretch: normal;
+	    letter-spacing: normal;
+	    color: beau-theme-color('bg_primary');
+    }
+    .logo{
+    	padding-top:27px;
+    	@media screen and (max-width: 600px){
+    		text-align:right;
+    	}
+    }
+    @media screen and (max-width: 780px) {
+	  	.row{
+	  		div{
+	  			width: 50%;
+	  			float:left;
+	  		}
+	  		.back_home{
+	  			padding-top:22px;
+	  		}
+	  	}
+	}
+}
+#login_left{
+	span{
+	  height: 48px;
+	  font-family: $font-family-sans-serif;
+	  font-size: 36px;
+	  font-weight: 100;
+	  font-style: normal;
+	  font-stretch: normal;
+	  line-height: 1.33;
+	  letter-spacing: normal;
+	  color: beau-theme-color('dark');
+	  margin-bottom: 40px;
+	}
+}
+.login{
+	width: 100%;
+	text-align: center;
+	padding: 9px 30px;
+	margin-top: 30px;
+}
+.login_bottom{
+	padding: 0px;
+	p{
+	  height: 26px;
+	  font-family: $font-family-sans-serif;
+	  font-size: 15px;
+	  font-weight: 600;
+	  font-style: normal;
+	  font-stretch: normal;
+	  line-height: 1.73;
+	  letter-spacing: normal;
+	  color: beau-theme-color('grey-88');
+	  padding: 0px;
+	  margin-top: 30px;
+	  margin-bottom: 10px;
+	}
+	a{
+	  height: 24px;
+	  font-family: $font-family-sans-serif;
+	  font-size: 14px;
+	  font-weight: 600;
+	  font-style: normal;
+	  font-stretch: normal;
+	  line-height: 1.71;
+	  letter-spacing: 1px;
+	  text-align: left;
+	  color: beau-theme-color('bg_primary');
+	  u{
+	  	font-weight: 600;
+	  }
+	  :hover{
+	    color: beau-theme-color('bg_secondary');
+	    }
+	}
+}
+.remember{
+    padding:0px;
+}
+
+.forgot{
+  line-height: 27px;
+  font-family: $font-family-sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+
+  letter-spacing: 1px;
+  text-align: left;
+  color: beau-theme-color('bg_primary');
+  padding-top: 4px;
+  &:hover{
+	    color: beau-theme-color('bg_secondary');
+	    }
+}
+.form_login{
+	.form-group{
+		margin-bottom: 0px;
+	}
+	.forgot_password{
+		padding-top:10px;
+		@media (max-width: 600px) {
+			margin-top:-40px;
+		}
+	}
+}
+.help-block strong{
+	font-size: 15px;
+}
+@media screen and (max-width: 600px){
+    .login_image{
+    	margin-left:-10%;
+    }
+}

@@ -1,0 +1,20 @@
+
+@function beau-theme-color($key: "primary") {
+  @return map-get($beau-theme-colors, $key);
+}
+
+$browser-context: 16; // Default
+@function em($pixels, $context: $browser-context) {
+  @return #{$pixels/$context}em;
+}
+
+@function rem($pixels, $context: $browser-context) {
+  @return #{$pixels/$context}rem;
+}
+@mixin make-beau-row-max-widths($max-widths: $grid-breakpoints, $breakpoints: $grid-breakpoints) {
+  @each $breakpoint, $grid-breakpoint in $max-widths {
+    @include media-breakpoint-up($breakpoint, $breakpoints) {
+      max-width: $grid-breakpoint;
+    }
+  }
+}

@@ -1,0 +1,21 @@
+@import "beau_variables";
+@import "function";
+.form_segment{
+	border-left: 2px solid beau-theme-color('grey-e9');
+	.custom_segment{
+		border-top: 1px solid beau-theme-color('grey-e9');
+    	margin-top: 15px;
+	}
+	.from_feild{
+		margin-top: 10px;
+	}
+}
+.list_from{
+	list-style-type: none;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+	background-color: #ffffff;
+	display: none;
+	li{
+		line-height: 35px;
+	}
+}

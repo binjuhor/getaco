@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="553px" height="407px" viewBox="0 0 553 407" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="115.055012%" id="linearGradient-1">
+            <stop stop-color="#DB1943" offset="0%"></stop>
+            <stop stop-color="#FFC22A" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="50.75" cy="136.625" r="35.7972808"></circle>
+        <filter x="-264.8%" y="-262.0%" width="629.5%" height="629.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="6.51596967 0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-384.9%" y="-382.1%" width="869.7%" height="869.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="85" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-0.3%" y="-0.3%" width="100.6%" height="100.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-0.3%" y="-0.3%" width="100.5%" height="100.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-89.7%" y="-89.7%" width="279.4%" height="279.4%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="-5.01319691 -5.05227528" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-54.6%" y="-54.6%" width="209.1%" height="209.1%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="5.31879846 3.76407275" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-31.4%" y="-31.4%" width="162.8%" height="162.8%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="1.44196011 -4.76896101" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="04-chi-tiết-trang-lĩnh-vực-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-387.000000, -1732.000000)">
+        <g id="Group-5" transform="translate(466.000000, 1733.000000)">
+            <g id="Oval-7-Copy-28" filter="url(#filter-3)" transform="translate(50.750000, 136.625000) rotate(-45.000000) translate(-50.750000, -136.625000) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <circle id="Oval-7-Copy-29" stroke="#FF4669" stroke-width="2" cx="287.34375" cy="186.34375" r="133.864153"></circle>
+            <circle id="Oval-7-Copy-40" stroke="#F8F8F8" stroke-width="2" filter="url(#filter-5)" cx="287.34375" cy="186.34375" r="157.684812"></circle>
+            <circle id="Oval-7-Copy-41" stroke="#F8F8F8" stroke-width="2" filter="url(#filter-6)" cx="287.34375" cy="186.34375" r="185.604482"></circle>
+            <path d="M351.885451,301.466096 L285.897775,176.53658" id="Line-3" stroke="#FF4669" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M285.897775,177.450434 L201.75251,289.145661" id="Line-6" stroke="#FF4669" stroke-width="2" stroke-linecap="square"></path>
+            <circle id="Oval-7-Copy-30" fill="url(#linearGradient-1)" transform="translate(213.828125, 193.828125) rotate(-45.000000) translate(-213.828125, -193.828125) " cx="213.828125" cy="193.828125" r="11.8992813"></circle>
+            <circle id="Oval-7-Copy-32" fill="url(#linearGradient-1)" transform="translate(338.828125, 169.828125) rotate(-45.000000) translate(-338.828125, -169.828125) " cx="338.828125" cy="169.828125" r="11.8992813"></circle>
+            <circle id="Oval-7-Copy-36" fill="url(#linearGradient-1)" transform="translate(243.828125, 120.828125) rotate(-45.000000) translate(-243.828125, -120.828125) " cx="243.828125" cy="120.828125" r="11.8992813"></circle>
+            <circle id="Oval-7-Copy-33" fill="url(#linearGradient-1)" transform="translate(318.665971, 101.665971) rotate(-45.000000) translate(-318.665971, -101.665971) " cx="318.665971" cy="101.665971" r="6.12776709"></circle>
+            <circle id="Oval-7-Copy-34" fill="url(#linearGradient-1)" transform="translate(375.585937, 224.585937) rotate(-45.000000) translate(-375.585937, -224.585937) " cx="375.585937" cy="224.585937" r="7.48538819"></circle>
+            <circle id="Oval-7-Copy-38" fill="url(#linearGradient-1)" transform="translate(275.914062, 241.914062) rotate(-45.000000) translate(-275.914062, -241.914062) " cx="275.914062" cy="241.914062" r="4.62657757"></circle>
+            <circle id="Oval-7-Copy-39" fill="url(#linearGradient-1)" transform="translate(294.457031, 283.457031) rotate(-45.000000) translate(-294.457031, -283.457031) " cx="294.457031" cy="283.457031" r="13.051092"></circle>
+            <circle id="Oval-7-Copy-37" fill="url(#linearGradient-1)" filter="url(#filter-7)" transform="translate(402.828125, 110.828125) rotate(-45.000000) translate(-402.828125, -110.828125) " cx="402.828125" cy="110.828125" r="11.8992813"></circle>
+            <circle id="Oval-7-Copy-31" fill="url(#linearGradient-1)" filter="url(#filter-8)" transform="translate(113.003906, 335.339844) rotate(-45.000000) translate(-113.003906, -335.339844) " cx="113.003906" cy="335.339844" r="17.9152132"></circle>
+            <circle id="Oval-7-Copy-35" fill="url(#linearGradient-1)" filter="url(#filter-9)" transform="translate(375.656250, 368.656250) rotate(-45.000000) translate(-375.656250, -368.656250) " cx="375.65625" cy="368.65625" r="23.7985626"></circle>
+            <path d="M285.897775,176.5 L167.579501,127.84145" id="Line-7" stroke="#FF4669" stroke-width="2" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

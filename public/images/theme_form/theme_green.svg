@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="357" height="230" viewBox="0 0 357 230">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="357" height="230" fill="#FFF" rx="3"/>
+        <path stroke="#D8D8D8" stroke-width=".96" d="M38.48 33.48h281.04v33.04H38.48zM38.48 79.48h281.04v33.04H38.48zM38.48 125.48h281.04v33.04H38.48z"/>
+        <text fill="#888" font-family="Muli-SemiBold, Muli" font-size="9.6" font-weight="500">
+            <tspan x="52" y="53">Full name</tspan>
+        </text>
+        <text fill="#888" font-family="Muli-SemiBold, Muli" font-size="9.6" font-weight="500">
+            <tspan x="52" y="98">Email</tspan>
+        </text>
+        <text fill="#888" font-family="Muli-SemiBold, Muli" font-size="9.6" font-weight="500">
+            <tspan x="52" y="145">Your phone</tspan>
+        </text>
+        <path fill="#0DB75E" d="M133 174h91v33h-91z"/>
+        <text fill="#FFF" font-family="Muli-Bold, Muli" font-size="10" font-weight="bold" letter-spacing="1">
+            <tspan x="157" y="194">SUBMI</tspan> <tspan x="194.07" y="194">T</tspan>
+        </text>
+    </g>
+</svg>

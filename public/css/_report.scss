@@ -1,0 +1,150 @@
+@import "beau_variables";
+@import "function";
+
+.report_convert{
+	h3{
+		margin-bottom: 20px;
+	}
+	.reporrt_status{
+		background-color: #ffffff;
+		box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+		padding: 0px;
+		height: 610px;
+		@media all and (max-width: 1400px) {
+		 	height: 500px;
+		}
+		.report_header{
+			line-height: 48px;
+			font-family: Muli;
+			font-size: 14px;
+			font-weight: 800;
+			font-style: normal;
+			font-stretch: normal;
+			letter-spacing: 1px;
+			color: #b2b2b2;
+			border-bottom: solid 2px #d8d8d8;
+			height: 50px;
+			padding: 0px;
+			margin-bottom: 30px;
+				.report_select{
+					width: 85%;
+					border-bottom: none;
+					margin:10px auto;
+					background-image: url(../icon/dropdown-active.svg);
+					font-family: Muli;
+					 font-size: 14px;
+					 font-weight: 800;
+					 font-style: normal;
+					 font-stretch: normal;
+					 letter-spacing: 1px;
+					 color: beau-theme-color('bg_primary');
+				}
+			.button_report{
+				a{
+				  font-size: 10px;
+				  font-weight: 800;
+				  line-height: 35px;
+				  letter-spacing: 1px;
+				  color: #888888;
+				  border-radius: 12.5px;
+  					background-color: #e9e9e9;
+  					margin-right: 10px;
+  					padding: 6px 10px;
+  					&:hover{
+  						background-color: beau-theme-color('bg_primary');
+  						color: beau-theme-color('color-while');
+  					}
+				}
+			}
+		}
+	}
+}
+.tag_link{
+	height: 20px;
+  font-family: Muli;
+  font-size: 12px;
+  font-weight: 800;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #b2b2b2;
+  letter-spacing: 1px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  &:hover{
+  	color: beau-theme-color('bg_primary');
+  }
+}
+.table_report{
+height: 610px;
+@media all and (max-width: 1400px) {
+ 	height: 500px;
+}
+  border-radius: 3px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+  overflow-y:auto;
+  table{
+  	tr{
+  		th{
+  			height: 50px;
+		  font-family: Muli;
+		  font-size: 14px;
+		  font-weight: 800;
+		  font-style: normal;
+		  font-stretch: normal;
+		  line-height: 50px;
+		  letter-spacing: 1px;
+		  text-align: center;
+		  color: #888888;
+  		}
+  		td{
+			height: 50px;
+			line-height: 50px;
+			text-align: center;
+  		}
+  	}
+  }
+}
+.report_header{
+	padding: 0px;
+	.report_title{
+		height: 26px;
+	  font-family: Muli;
+	  font-size: 15px;
+	  font-weight: 600;
+	  font-style: normal;
+	  font-stretch: normal;
+	  line-height: 1.73;
+	  letter-spacing: normal;
+	  text-align: left;
+	  color: #888888;
+	  margin-top: 10px;
+	  margin-bottom: 25px;
+	}
+}
+.report_line{
+	border: solid 1px #d8d8d8;
+	margin-bottom: 30px;
+}
+.report_segment{
+	margin-top: 60px;
+	margin-bottom: 100px;
+}
+.report_day{
+	height: 24px;
+  font-family: Muli;
+  font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.71;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #ffffff;
+
+	img{
+		content:url("../iconSVG/calendar-1322.svg");
+	}
+}

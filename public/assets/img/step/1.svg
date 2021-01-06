@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1038px" height="473px" viewBox="0 0 1038 473" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 28</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFDC8A" offset="0%"></stop>
+            <stop stop-color="#FFAE00" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-62.4%" y="-62.4%" width="224.8%" height="224.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="35.9978171 0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-62.4%" y="-62.4%" width="224.9%" height="224.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="11.4458869 0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-77.0%" y="-77.0%" width="254.0%" height="254.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="9.49563419 0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="115.055012%" id="linearGradient-5">
+            <stop stop-color="#DB1943" offset="0%"></stop>
+            <stop stop-color="#FFC22A" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-6" cx="1005.5" cy="265.5" r="24.5"></circle>
+        <filter x="-522.4%" y="-518.4%" width="1144.9%" height="1144.9%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="85" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="01-.-home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, -4328.000000)">
+        <g id="chuyển-đổi-khách-hàng" transform="translate(-85.000000, 4112.000000)">
+            <g id="Group-28" transform="translate(0.000000, 184.000000)">
+                <path d="M460,112 L925,164" id="Line" stroke="#6D1B2A" stroke-linecap="square"></path>
+                <path d="M461,136 L916,184" id="Line-Copy-2" stroke="#6D1B2A" stroke-linecap="square" stroke-dasharray="9"></path>
+                <path d="M455,366 L926,412" id="Line-Copy" stroke="#6D1B2A" stroke-linecap="square" transform="translate(690.500000, 389.000000) scale(-1, 1) translate(-690.500000, -389.000000) "></path>
+                <path d="M455,342 L919,387" id="Line-Copy-3" stroke="#6D1B2A" stroke-linecap="square" stroke-dasharray="10" transform="translate(687.000000, 364.500000) scale(-1, 1) translate(-687.000000, -364.500000) "></path>
+                <ellipse id="Oval-6" fill="url(#linearGradient-1)" cx="926.5" cy="264" rx="13.5" ry="101"></ellipse>
+                <path d="M598,35 L598,504" id="Line-2" stroke="#C82645" stroke-linecap="square"></path>
+                <path d="M794,35 L794,504" id="Line-2-Copy" stroke="#C82645" stroke-linecap="square"></path>
+                <text id="Bước-1" font-family="Muli-Bold, Muli" font-size="14" font-weight="bold" letter-spacing="2" fill="#FFFFFF">
+                    <tspan x="455" y="48">Bước 1 </tspan>
+                </text>
+                <text id="Bước-2" font-family="Muli-Bold, Muli" font-size="14" font-weight="bold" letter-spacing="2" fill="#FFFFFF">
+                    <tspan x="629" y="48">Bước 2 </tspan>
+                </text>
+                <text id="Bước-3" font-family="Muli-Bold, Muli" font-size="14" font-weight="bold" letter-spacing="2" fill="#FFFFFF">
+                    <tspan x="825" y="48">Bước 3</tspan>
+                </text>
+                <circle id="Oval-7" fill="#E63D48" cx="493.5" cy="202.5" r="18.5"></circle>
+                <circle id="Oval-7-Copy-12" fill="#E9444A" filter="url(#filter-2)" transform="translate(118.500000, 118.500000) rotate(29.000000) translate(-118.500000, -118.500000) " cx="118.5" cy="118.5" r="86.5"></circle>
+                <circle id="Oval-7-Copy-13" fill="#ED444A" filter="url(#filter-3)" transform="translate(233.500000, 277.500000) rotate(29.000000) translate(-233.500000, -277.500000) " cx="233.5" cy="277.5" r="27.5"></circle>
+                <circle id="Oval-7-Copy-14" fill="#ED444A" filter="url(#filter-4)" transform="translate(362.500000, 208.500000) rotate(29.000000) translate(-362.500000, -208.500000) " cx="362.5" cy="208.5" r="18.5"></circle>
+                <circle id="Oval-7-Copy-6" fill="#E63D48" cx="596.5" cy="212.5" r="11.5"></circle>
+                <circle id="Oval-7-Copy-3" fill="#D82A3D" cx="704.5" cy="221.5" r="27.5"></circle>
+                <circle id="Oval-7-Copy-7" fill="#BB1925" cx="799.5" cy="284.5" r="20.5"></circle>
+                <g id="Oval-7-Copy-10">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                    <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                </g>
+                <circle id="Oval-7-Copy-4" fill="#D82A3D" cx="648.5" cy="275.5" r="17.5"></circle>
+                <circle id="Oval-7-Copy-8" fill="#BB1925" cx="790" cy="227" r="9"></circle>
+                <circle id="Oval-7-Copy-5" fill="#D82A3D" cx="714.5" cy="310.5" r="17.5"></circle>
+                <circle id="Oval-7-Copy-9" fill="#BB1925" cx="876" cy="293" r="16"></circle>
+                <circle id="Oval-7-Copy" fill="#E63D48" cx="531" cy="258" r="12"></circle>
+                <circle id="Oval-7-Copy-2" fill="#E63D48" cx="477" cy="303" r="16"></circle>
+                <circle id="Oval-7-Copy-11" fill="#E63D48" cx="558.5" cy="319.5" r="16.5"></circle>
+                <polygon id="Triangle" fill="#B21707" transform="translate(647.500000, 155.500000) rotate(99.000000) translate(-647.500000, -155.500000) " points="647.5 149 654 162 641 162"></polygon>
+                <polygon id="Triangle-Copy" fill="#B21707" transform="translate(654.500000, 367.500000) rotate(79.000000) translate(-654.500000, -367.500000) " points="654.5 361 661 374 648 374"></polygon>
+                <rect id="Rectangle-10" fill="#FFFFFF" x="985" y="206" width="37" height="26" rx="5"></rect>
+                <polygon id="Triangle-2" fill="#E5E5E5" transform="translate(1004.500000, 233.000000) scale(-1, -1) translate(-1004.500000, -233.000000) " points="1004.5 231 1011 235 998 235"></polygon>
+                <g id="heart-2" transform="translate(998.000000, 214.000000)" fill="#E86C60" fill-rule="nonzero">
+                    <path d="M10.0906785,0.928132018 C8.87844927,-0.30905185 6.90558678,-0.30905185 5.69311831,0.928132018 C5.62590513,0.996728835 5.56156226,1.0689874 5.5000897,1.14466361 C5.43861714,1.06874329 5.37427427,0.996728835 5.30682189,0.927887902 C4.09459261,-0.309295967 2.12173013,-0.309295967 0.909261657,0.927887902 C-0.303206812,2.16507177 -0.30296762,4.17854702 0.909261657,5.415975 L5.33074117,9.92847378 C5.37738377,9.97607656 5.43861714,10 5.4998505,10 C5.56108387,10 5.62231723,9.97607656 5.66895984,9.92847378 L10.0904394,5.415975 C11.303147,4.17879113 11.303147,2.16531589 10.0906785,0.928132018 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="59px" viewBox="0 0 80 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="86.220263%" id="linearGradient-1">
+            <stop stop-color="#FF4069" offset="0%"></stop>
+            <stop stop-color="#FF6959" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="02-.-tinh-nang" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-826.000000, -3466.000000)">
+        <g id="#1-copy-3" transform="translate(776.000000, 3416.000000)">
+            <g id="#1">
+                <g id="Testimonial-left-Copy-6" transform="translate(50.000000, 50.000000)">
+                    <g id="Group-8">
+                        <rect id="Rectangle-26" stroke="#FF4669" stroke-width="2.2" x="1.1" y="1.1" width="77.8" height="42.8" rx="3"></rect>
+                        <g id="Group-9" transform="translate(0.000000, 49.000000)">
+                            <rect id="Rectangle-16" fill="url(#linearGradient-1)" x="0" y="0" width="27" height="10"></rect>
+                            <g id="checked-(2)" transform="translate(11.000000, 3.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                                <path d="M0.0692307692,2.2 C0.0230769231,2.16 0,2.1 0,2.06 C0,2.02 0.0230769231,1.96 0.0692307692,1.92 L0.392307692,1.64 C0.484615385,1.56 0.623076923,1.56 0.715384615,1.64 L0.738461538,1.66 L2.00769231,2.84 C2.05384615,2.88 2.12307692,2.88 2.16923077,2.84 L5.26153846,0.06 L5.28461538,0.06 C5.37692308,-0.02 5.51538462,-0.02 5.60769231,0.06 L5.93076923,0.34 C6.02307692,0.42 6.02307692,0.54 5.93076923,0.62 L2.23846154,3.94 C2.19230769,3.98 2.14615385,4 2.07692308,4 C2.00769231,4 1.96153846,3.98 1.91538462,3.94 L0.115384615,2.26 L0.0692307692,2.2 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

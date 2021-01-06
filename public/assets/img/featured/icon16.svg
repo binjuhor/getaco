@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 26</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="29.5" cy="30" rx="29.5" ry="30"></ellipse>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="86.220263%" id="linearGradient-3">
+            <stop stop-color="#FF4069" offset="0%"></stop>
+            <stop stop-color="#FF6959" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="02-.-tinh-nang" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-826.000000, -5444.000000)">
+        <g id="#1-copy-9" transform="translate(776.000000, 5396.000000)">
+            <g id="Group-26" transform="translate(52.000000, 50.000000)">
+                <g id="Group-25">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask-Copy-2"></g>
+                    <g mask="url(#mask-2)" stroke="#FF4669" stroke-width="3">
+                        <g transform="translate(4.000000, -11.186441)">
+                            <path d="M24.5185315,42.4136918 L38.2197962,0" id="Path-7"></path>
+                            <path d="M14.9436802,68.8786301 L24.5163309,42.2324212" id="Path-7-Copy"></path>
+                            <polyline id="Line-7" stroke-linecap="square" points="0.5 58.4745763 24.0425348 41.6206841 0.5 14.190291"></polyline>
+                        </g>
+                    </g>
+                </g>
+                <path d="M42.5,32.5423729 C39.4624322,32.5423729 37,35.2741929 37,38.6440678 L48,38.6440678 C48,35.2741929 45.5375678,32.5423729 42.5,32.5423729 Z" id="Shape" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="url(#linearGradient-3)" fill-rule="nonzero" cx="42" cy="27" r="3"></circle>
+                <circle id="Mask" stroke="#FF4669" stroke-width="3" cx="29.5" cy="29.5" r="29.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

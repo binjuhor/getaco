@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="389px" height="288px" viewBox="0 0 389 288" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 20</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="02-.-tinh-nang" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1075.000000, -1342.000000)">
+        <g id="Quản-lý-dữ-liệu-khách-hàng" transform="translate(475.000000, 1342.000000)">
+            <g id="Group-20" transform="translate(600.000000, 0.000000)">
+                <g id="Group-9-Copy" transform="translate(0.000000, 18.000000)" stroke="#FF4669">
+                    <rect id="Rectangle-22" x="1.5" y="228.5" width="369" height="41" rx="3"></rect>
+                    <rect id="Rectangle-22-Copy-3" x="1.4453125" y="175.5" width="369.07741" height="41" rx="3"></rect>
+                    <rect id="Rectangle-22-Copy" x="1.5" y="0.5" width="369" height="149" rx="3"></rect>
+                    <path d="M82.4791667,23.5 L141.533877,23.5" id="Line-3" stroke-width="9" stroke-linecap="square"></path>
+                    <path d="M159.479167,23.5 L218.63539,23.5" id="Line-3-Copy-10" stroke-linecap="square"></path>
+                    <path d="M159.479167,36.5 L186.518498,36.5" id="Line-3-Copy-11" stroke-linecap="square"></path>
+                    <path d="M79.4791667,49.5 L125.543438,49.5" id="Line-3-Copy-4" stroke-linecap="square"></path>
+                    <path d="M159.479167,49.5 L227.951396,49.5" id="Line-3-Copy-12" stroke-linecap="square"></path>
+                    <path d="M79.4791667,62.5 L147.951396,62.5" id="Line-3-Copy-5" stroke-linecap="square"></path>
+                    <path d="M79.4791667,36.5 L147.951396,36.5" id="Line-3-Copy-16" stroke-linecap="square"></path>
+                    <path d="M159.479167,62.5 L206.510632,62.5" id="Line-3-Copy-13" stroke-linecap="square"></path>
+                    <path d="M79.4791667,75.5 L129.589882,75.5" id="Line-3-Copy-6" stroke-linecap="square"></path>
+                    <path d="M159.479167,75.5 L227.951396,75.5" id="Line-3-Copy-14" stroke-linecap="square"></path>
+                    <path d="M79.4791667,88.5 L147.951396,88.5" id="Line-3-Copy-7" stroke-linecap="square"></path>
+                    <path d="M159.479167,88.5 L199.699399,88.5" id="Line-3-Copy-15" stroke-linecap="square"></path>
+                    <path d="M79.4791667,101.5 L128.510199,101.5" id="Line-3-Copy-8" stroke-linecap="square"></path>
+                    <path d="M79.4791667,115.5 L147.951396,115.5" id="Line-3-Copy-9" stroke-linecap="square"></path>
+                    <path d="M56.5384615,196.5 L83.8039761,196.5" id="Line-3-Copy" stroke-linecap="square"></path>
+                    <path d="M56.5348837,250.5 L101.516029,250.5" id="Line-3-Copy-2" stroke-linecap="square"></path>
+                </g>
+                <g id="Group-10" transform="translate(27.000000, 40.000000)" fill="#FF4669" fill-rule="nonzero">
+                    <circle id="Oval" cx="13.5" cy="7.5" r="7.5"></circle>
+                    <path d="M14.5,19 C6.49186667,19 0,25.7157241 0,34 L29,34 C29,25.7157241 22.5081333,19 14.5,19 Z" id="Shape"></path>
+                </g>
+                <g id="Group-10-Copy" transform="translate(28.000000, 205.000000)" fill="#FF4669" fill-rule="nonzero">
+                    <ellipse id="Oval" cx="7.26666667" cy="4.22222222" rx="4.26666667" ry="4.22222222"></ellipse>
+                    <path d="M8,11 C3.58171954,11 0,14.780704 0,19.4444444 L16,19.4444444 C16,14.780704 12.4182805,11 8,11 Z" id="Shape"></path>
+                </g>
+                <g id="Group-10-Copy-2" transform="translate(28.000000, 258.000000)" fill="#FF4669" fill-rule="nonzero">
+                    <ellipse id="Oval" cx="7.26666667" cy="4.22222222" rx="4.26666667" ry="4.22222222"></ellipse>
+                    <path d="M8,11 C3.58171954,11 0,14.780704 0,19.4444444 L16,19.4444444 C16,14.780704 12.4182805,11 8,11 Z" id="Shape"></path>
+                </g>
+                <circle id="Oval-15" fill="#FFA44F" cx="286.5" cy="39.5" r="5.5"></circle>
+                <circle id="Oval-15-Copy" fill="#FF4669" cx="286.5" cy="60.5" r="5.5"></circle>
+                <circle id="Oval-15-Copy-2" fill="#3DAB84" cx="286.5" cy="81.5" r="5.5"></circle>
+                <g id="Group-12" transform="translate(301.000000, 0.000000)">
+                    <g id="Group-11" fill="#FFA64C">
+                        <rect id="Rectangle-21" x="9" y="0" width="79" height="39"></rect>
+                        <polygon id="Triangle-5" points="0.737706999 39 10 39 10 30"></polygon>
+                    </g>
+                    <rect id="Rectangle-23" fill="#BC7424" x="24" y="13" width="49" height="3"></rect>
+                    <rect id="Rectangle-23-Copy" fill="#BC7424" x="24" y="21" width="34" height="3"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

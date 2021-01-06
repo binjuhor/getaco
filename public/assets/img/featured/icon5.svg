@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="61px" viewBox="0 0 80 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="86.220263%" id="linearGradient-1">
+            <stop stop-color="#FF4069" offset="0%"></stop>
+            <stop stop-color="#FF6959" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="02-.-tinh-nang" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-426.000000, -4950.000000)">
+        <g id="Group-27" transform="translate(376.000000, 4901.000000)">
+            <g id="#1-copy-2">
+                <g id="#1">
+                    <g id="Group-8" transform="translate(50.000000, 50.000000)">
+                        <g id="Group-32">
+                            <rect id="Rectangle-26" stroke="#FF4669" stroke-width="2.2" x="1.1" y="1.1" width="77.8" height="57.8" rx="3"></rect>
+                            <path d="M27.5,1.21272082 L27.5,58.2077813" id="Line-12" stroke="#FF4669" stroke-width="2.5" stroke-linecap="square"></path>
+                            <path d="M52.5,1.21272082 L52.5,58.2077813" id="Line-12-Copy" stroke="#FF4669" stroke-width="2.5" stroke-linecap="square"></path>
+                            <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" cx="40.5" cy="27.5" r="2.5"></circle>
+                            <path d="M40.5,31 C38.0147172,31 36,33.2385747 36,36 L45,36 C45,33.2385747 42.9852828,31 40.5,31 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                            <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" cx="66.5" cy="27.5" r="2.5"></circle>
+                            <path d="M66.5,31 C64.0147172,31 62,33.2385747 62,36 L71,36 C71,33.2385747 68.9852828,31 66.5,31 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                            <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" cx="14.5" cy="27.5" r="2.5"></circle>
+                            <path d="M14.5,31 C12.0147172,31 10,33.2385747 10,36 L19,36 C19,33.2385747 16.9852828,31 14.5,31 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

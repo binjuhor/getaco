@@ -1,0 +1,315 @@
+@import "beau_variables";
+@import "function";
+.dropdown_excel{
+  width: 50px; 
+  height: 50px; 
+  background-color: red; 
+  border-radius: 25px;
+  background-color: beau-theme-color('color-while');
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+  background-image: url(../iconSVG/folder-1784.svg);
+  background-repeat: no-repeat;
+  background-position: 18px;
+  &:hover{
+    cursor: pointer;
+  }
+  &:active{
+   box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.15);
+  }
+}
+.dropdown-menu{
+  border: none;
+  padding: 0px;
+}
+.drop_excel_conten{
+    padding: 0px 20px 0px 20px;
+    min-width: 124px !important;
+    width: 124px;
+    top: 59px;
+    .btn_export{
+      border-bottom: 2px solid beau-theme-color('grey-e9');
+      font-weight: 600;
+      &:before{
+        content:url(../iconSVG/export.svg);
+        margin-right: 10px;
+      }
+      &:hover{
+        &:before{
+        content:url(../iconSVG/export_hover.svg);
+        margin-right: 10px;
+      }
+      }
+    }
+    .btn_import{
+      &:before{
+        content:url(../iconSVG/import.svg);
+        margin-right: 10px;
+      }
+      &:hover{
+        &:before{
+        content:url(../iconSVG/import_hover.svg);
+        margin-right: 10px;
+      }
+      }
+    }
+}
+.attr_active{
+  padding-left: 20px;
+  font-size: 13px;
+  font-weight: 600;
+}
+.btn_download_excel{
+  content:url(../iconSVG/Download.svg);
+}
+#content {
+  position: relative;
+  .form1{
+    z-index: 1;
+  }
+  .header_list {
+    margin-bottom: 33px;
+    span{
+      padding-left: 0;
+    }
+    .text-right{
+      a{
+        margin-left: 10px;
+      }
+    }
+  }
+  .content_table {
+    .table_status{
+      tbody{
+        tr{
+          td{
+            padding-bottom: 15px;
+          }
+        }
+      }
+    }
+    table {
+      margin-bottom: 0;
+      border-radius: 3px;
+      background-color: beau-theme-color('color-while');
+      box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+      thead {
+        tr {
+          th {
+            &:first-child{
+              padding-left: 25px;
+            }
+            font-family: $font-family-sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+            line-height: 1.71;
+            letter-spacing: 1px;
+            color: beau-theme-color('grey-88');
+            padding:15px;
+          }
+        }
+      }
+      tbody {
+        tr{
+          &.customer_detail{
+            cursor: pointer;
+          &:hover{
+            background: beau-theme-color('grey-f5');
+            transition: all 0.3s;
+            }
+          }
+          
+          &:active:after{
+            padding: 0;
+            margin: 0;
+            opacity: 0.3;
+            transition: 0s
+          }
+          td {
+            &:first-child{
+              padding-left: 25px ;
+            }
+            padding: 15px 15px 0 15px;
+            line-height: 39px;
+            font-family: $font-family-sans-serif;
+            font-size: 15px;
+            font-weight: 500;
+            color: beau-theme-color('grey-88');
+            .name {
+              padding-left: 0;
+              color: beau-theme-color('dark');
+            }
+            a{
+              color: beau-theme-color('dark');
+            }
+          }
+        }
+      }
+      &.table-noaction{
+        tbody {
+          tr {
+            td {
+              padding: 15px 15px 15px 10px;
+            }
+          }
+        }
+      }
+    }
+    .pagination_content {
+      ul{
+        li{
+          span,a{
+            width: 40px;
+            height: 40px;
+            border-radius: 100px;
+            background-color: beau-theme-color('grey-e9');
+            border-color: transparent;
+            margin: 5px;
+            font-family: $font-family-sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+            line-height: 1.71;
+            letter-spacing: 1px;
+            text-align: center;
+            color: beau-theme-color('grey-88');
+            &:hover{
+              background-color: beau-theme-color('bg_primary');
+              color: beau-theme-color('color-while');
+            }
+          }
+          &.active{
+            span,a{
+              background-color: beau-theme-color('bg_primary');
+              color: beau-theme-color('color-while');
+            }
+          }
+        }
+        li:last-child{
+            a{
+              padding: 13px;
+              content:url("../iconSVG/shape-copy-7.svg");
+              &:hover{
+                content:url("../iconSVG/next_icon.svg");
+              }
+            }
+            span{
+              padding: 13px;
+              content:url("../iconSVG/shape-copy-7.svg");
+              &:hover{
+                content:url("../iconSVG/next_icon.svg");
+              }
+            }
+        }
+        li:first-child{
+          a{
+            padding: 13px;
+            content:url("../iconSVG/shape-copy-8.svg");
+            &:hover{
+                content:url("../iconSVG/shape-copy-17.svg");
+              }
+          }
+            span{
+              padding: 13px;
+              content:url("../iconSVG/shape-copy-8.svg");
+              &:hover{
+                content:url("../iconSVG/shape-copy-17.svg");
+              }
+          }
+        }
+      }
+    }
+  }
+  .footer_list{
+    margin-bottom: 150px;
+    .total_cus, .show_cus{
+      font-family: $font-family-sans-serif;
+      font-size: 15px;
+      font-weight: 600;
+      line-height: 98px;
+      color: beau-theme-color('grey-b2');
+      span{
+        color: beau-theme-color('bg_primary');
+      }
+    }
+  }
+
+  .title_page{
+    padding: 0 15px 0 15px;
+    margin-bottom: 42px;
+  }
+  .panel-default{
+    border: none;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+  }
+}
+#popup_attr{
+  ul{
+   width:250px;
+   max-height:400px;
+   overflow:auto;
+   border:none;
+
+   li{
+    trasition:0.4s;
+    
+    .icon{
+      width:25px;
+      float:left;
+      margin-right:10px;
+      .label{
+        padding:0;
+      }
+    }
+    .label_format{
+      width: calc(100% - 40px);
+      padding-top:3px !important;
+      float:left;
+
+    }
+  }
+
+}
+}
+#list_attribute{
+  .sortable-placeholder-attribute{
+    background-color: #ff466970;
+    height:74px;
+  }
+  .ui-sortable-helper{
+    display: table !important;
+    border-collapse: collapse;
+  }
+  tr{
+    position:relative;
+    transition: background-color .3s;
+    &:hover{
+      background-color: beau-theme-color('grey-f5');
+      .sort{
+        right:15px;
+      }
+    }
+    td{
+      position:relative;
+      overflow:hidden !important;
+      .sort{
+        position:absolute;
+        top:16px;
+        right:-50px;
+        z-index: 3;
+        width:40px;
+        height:40px;
+        padding-top:3px;
+        border-radius:20px;
+        transition: all .3s;
+        cursor: grab;
+        &:before{
+          content:url("../iconSVG/group-7-copy-5.svg");
+        }
+        &:hover{
+          background:#e9e9e9;
+        }
+      }
+    }
+    
+  }
+  
+}

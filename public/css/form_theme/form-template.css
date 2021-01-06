@@ -1,0 +1,251 @@
+.getacoEmbed {
+  width: 100%;
+  display: block;
+  clear: both; }
+  .getacoEmbed .hidden {
+    display: none !important;
+    opacity: 0 !important;
+    width: 0 !important;
+    height: 0 !important; }
+  .getacoEmbed .getacoMessage {
+    clear: both;
+    width: 100%; }
+  .getacoEmbed label {
+    cursor: pointer; }
+  @media (max-width: 767px) {
+    .getacoEmbed .add_field,
+    .getacoEmbed .field_frontend,
+    .getacoEmbed input[type="text"],
+    .getacoEmbed input[type="email"],
+    .getacoEmbed input[type="submit"],
+    .getacoEmbed button,
+    .getacoEmbed textarea {
+      width: 100% !important; }
+    .getacoEmbed .field_frontend {
+      margin: 5px 0 !important; } }
+
+.getacoEmbed #frontend {
+  padding: 0px; }
+
+.getacoEmbed .field_frontend {
+  margin: 10px 0px; }
+
+.getacoEmbed .beauvn_input_green_theme {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 0px;
+  width: 98%;
+  height: 50px; }
+
+.getacoEmbed .field_frontend {
+  width: 100%; }
+
+.getacoEmbed .beauvn_textarea_green_theme {
+  width: 98%;
+  border-radius: 0px;
+  height: 100px; }
+
+.getacoEmbed .beauvn_button_green_theme {
+  padding: 5px;
+  background: #0db75e;
+  border: solid #0db75e;
+  font-weight: bold;
+  color: white;
+  width: 98%;
+  height: 50px; }
+
+.getacoEmbed span.label {
+  cursor: pointer; }
+
+.getacoEmbed .form_3 {
+  width: 570px;
+  height: auto;
+  min-height: 373px;
+  padding: 63px;
+  border: 1px solid #ddd;
+  float: left; }
+  @media (max-width: 767px) {
+    .getacoEmbed .form_3 {
+      width: 100%;
+      padding: 20px; } }
+  .getacoEmbed .form_3 div[data-type="checkbox"] > div {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%); }
+    @media (max-width: 767px) {
+      .getacoEmbed .form_3 div[data-type="checkbox"] > div {
+        padding: 0px; } }
+
+.getacoEmbed .form_3 .header span {
+  width: 316px;
+  height: 52px;
+  font-size: 30px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #515151;
+  line-height: 52px; }
+
+.getacoEmbed .form_3 .field input {
+  height: 50px;
+  background-color: #ffffff;
+  border: solid 1px #e7e7e7;
+  margin: 5px 100px;
+  padding: 0 20px;
+  font-size: 16px;
+  color: #aeaeae; }
+  @media (min-width: 768px) {
+    .getacoEmbed .form_3 .field input {
+      width: 370px; } }
+
+.getacoEmbed .form_3 .add_field {
+  margin-top: 45px; }
+
+.getacoEmbed .form_3 .note {
+  margin: 0 65px;
+  text-align: center;
+  margin-top: 15px; }
+
+.getacoEmbed .form_3 .field_checkbox {
+  margin-left: 100px;
+  width: 370px;
+  margin-top: 30px;
+  color: #aeaeae; }
+
+.getacoEmbed .form_3 .field_checkbox input {
+  margin: 15px 0px;
+  color: #aeaeae;
+  font-size: 16px; }
+
+.getacoEmbed .form_3 .field_checkbox label {
+  font-size: 20px;
+  color: #898989; }
+
+.getacoEmbed .beauvn_input_red_theme {
+  width: 100%;
+  height: 50px;
+  background-color: #ffffff;
+  border: solid 1px #e7e7e7;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #aeaeae;
+  float: none;
+  display: table;
+  margin: 0px auto; }
+
+.getacoEmbed .beauvn_button_red_theme {
+  width: 100%;
+  height: 50px;
+  background-color: #ff5a32;
+  border: 1px #ff5a32 solid;
+  color: white;
+  float: none;
+  display: table;
+  margin: 0 auto;
+  font-size: 14px; }
+
+.getacoEmbed input.input_red_theme::placeholder {
+  color: #ddd; }
+
+.getacoEmbed .form4 {
+  text-align: center;
+  padding-top: 52px;
+  padding-bottom: 52px;
+  height: auto;
+  border: 1px solid #ddd; }
+
+.getacoEmbed .form4 > div {
+  max-width: 80%;
+  display: inline-block; }
+
+.getacoEmbed .beauvn_header {
+  margin: 0;
+  text-align: center;
+  font-size: 30px;
+  color: #515151; }
+
+.getacoEmbed .beauvn_description {
+  font-size: 16px;
+  margin-top: 15px;
+  color: #515151;
+  text-align: center;
+  line-height: 1.75;
+  color: #aeaeae; }
+
+.getacoEmbed .beauvn_header_left {
+  float: left; }
+
+.getacoEmbed .form4 .add_field {
+  display: inline-block;
+  margin-top: 20px;
+  width: 70%; }
+
+.getacoEmbed ::placeholder {
+  color: #aeaeae; }
+
+.getacoEmbed .beauvn_input_red_checkbox {
+  width: 16px;
+  height: 16px;
+  background-color: #aeaeae; }
+
+.getacoEmbed .field_content {
+  width: 100%; }
+
+.getacoEmbed .contentIncluded.content_form-73 button,
+.getacoEmbed .contentIncluded.content_form-84 button {
+  font-size: 0;
+  color: transparent;
+  position: relative; }
+  .getacoEmbed .contentIncluded.content_form-73 button::before,
+  .getacoEmbed .contentIncluded.content_form-84 button::before {
+    content: url(../../images/form-image/fa-paper-plane.png);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 40px;
+    width: 40px; }
+
+.getacoEmbed button {
+  white-space: nowrap; }
+
+#getacoEmbed63 .form_3,
+#getacoEmbed81 .form_3 {
+  width: 370px;
+  padding: 40px; }
+  @media (max-width: 540px) {
+    #getacoEmbed63 .form_3,
+    #getacoEmbed81 .form_3 {
+      width: 100%;
+      padding: 15px; } }
+
+#getacoEmbed47 .contentIncluded > div,
+#getacoEmbed49 .contentIncluded > div,
+#getacoEmbed54 .contentIncluded > div,
+#getacoEmbed55 .contentIncluded > div,
+#getacoEmbed63 .contentIncluded > div,
+#getacoEmbed73 .contentIncluded > div,
+#getacoEmbed75 .contentIncluded > div,
+#getacoEmbed78 .contentIncluded > div,
+#getacoEmbed79 .contentIncluded > div,
+#getacoEmbed80 .contentIncluded > div,
+#getacoEmbed81 .contentIncluded > div,
+#getacoEmbed82 .contentIncluded > div,
+#getacoEmbed84 .contentIncluded > div,
+#getacoEmbed91 .contentIncluded > div {
+  background: url(../../images/form-image/white-feathers.jpg); }
+
+@media (min-width: 767px) {
+  #getacoEmbed75 .add_field,
+  #getacoEmbed47 .add_field {
+    max-width: 45%; } }
+
+@media (min-width: 767px) {
+  #getacoEmbed55 .add_field {
+    max-width: 55%; } }
+
+#getacoEmbed75 .form4 .beauvn_header, #getacoEmbed75 .form4 .beauvn_description {
+  max-width: 100% !important;
+  display: block !important; }

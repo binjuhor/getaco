@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="265px" viewBox="0 0 265 265" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 25</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="18" y="18" width="153" height="153" rx="76.5"></rect>
+        <filter x="-57.5%" y="-56.2%" width="215.0%" height="215.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="29" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.10827106 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="86.220263%" id="linearGradient-3">
+            <stop stop-color="#FF4069" offset="0%"></stop>
+            <stop stop-color="#FF6959" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="01-.-home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-862.000000, -280.000000)">
+        <g id="Group-25" transform="translate(900.000000, 316.000000)">
+            <rect id="Rectangle-25-Copy" stroke="#FF4669" x="0.5" y="0.5" width="187" height="187" rx="93.5"></rect>
+            <g id="Rectangle-25">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="ic_play_arrow_48px" transform="translate(77.000000, 72.000000)" fill="url(#linearGradient-3)" fill-rule="nonzero">
+                <polygon id="Shape" points="0 0 0 46 36 23"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

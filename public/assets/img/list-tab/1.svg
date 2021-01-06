@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="39px" viewBox="0 0 42 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="18" width="41" height="11"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="41" height="11" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="02-.-tinh-nang" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1074.000000, -877.000000)">
+        <g id="Tạo-form" transform="translate(475.000000, 877.000000)">
+            <g id="Group-3" transform="translate(600.000000, 0.000000)">
+                <rect id="Rectangle-22" fill="#FF4669" x="0" y="0" width="41" height="11"></rect>
+                <use id="Rectangle-22-Copy" stroke="#FF4669" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="3" xlink:href="#path-1"></use>
+                <path d="M0.6875,38 L21.4950257,38" id="Line" stroke="#FF4669" stroke-width="2" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
