@@ -31,10 +31,6 @@ git merge branch_name
 
 `git push origin dev`
 
-###======Route defination=======
-
-Define Route:
-
 #With route you need group all function under action
 
 
